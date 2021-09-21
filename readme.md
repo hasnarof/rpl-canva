@@ -169,9 +169,9 @@ Berdasarkan apa yang anda pilih kemudian anda akan diarahkan ke halaman baru ses
 ![enter image description here](img/image58.jpg)
 
 #### c. **Tampilkan petunjuk** sama seperti penggaris pada menu ini berfungsi untuk memudahkan kita dalam mendesain dengan adanya garis batuan (petunjuk). Cara menggunakan **Show guides** adalah:
-#### 1. Tampilkan ruler dulu dengan mengaktifkan menu **tampilkan penggaris**.
-#### 2. Aktifkan menu **tampilkan petunjuk**.
-#### 3. Tarik garis dari penggaris sampai ke posisi yang anda inginkan. Maka akan muncul semacam garis guide (petunjuk). Jika **tampilkan petunjuk** dinonaktifkan, maka garis guide itu akan hilang. Shortcut untuk **tampilkan petunjuk** adalah `Ctrl + ;`.
+##### 1. Tampilkan ruler dulu dengan mengaktifkan menu **tampilkan penggaris**.
+##### 2. Aktifkan menu **tampilkan petunjuk**.
+##### 3. Tarik garis dari penggaris sampai ke posisi yang anda inginkan. Maka akan muncul semacam garis guide (petunjuk). Jika **tampilkan petunjuk** dinonaktifkan, maka garis guide itu akan hilang. Shortcut untuk **tampilkan petunjuk** adalah `Ctrl + ;`.
 
 ### 3.) Ubah Ukuran (Canva Pro)
 ### 4.) Status Menyimpan
