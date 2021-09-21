@@ -19,10 +19,13 @@ Adapun langkah-langkahnya sebagai berikut :
 2. Tampilan yang akan diberikan selanjutnya merupakan pop up pendaftaran dengan akun google, akun facebook, atau email yang anda punya. Anda cukup memilih satu di antaranya.
 ![enter image description here](img/image69.jpg)
 Apabila anda memilih :
+
 a. **Daftar dengan Google**, maka anda akan diarahkan untuk memilih akun google yang ingin anda daftarkan.
 ![enter image description here](img/image12.jpg)
+
 b.  **Daftar dengan Facebook**, maka anda akan diarahkan ke halaman Log In facebook.
 ![enter image description here](img/image31.jpg)
+
 c. **Daftar dengan email**, maka anda akan diarahkan ke halaman pendaftaran dengan email.
 ![enter image description here](img/image47.jpg)
 # Mengenal Canva
