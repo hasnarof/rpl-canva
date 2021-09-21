@@ -173,13 +173,42 @@ Berdasarkan apa yang anda pilih kemudian anda akan diarahkan ke halaman baru ses
 ##### 2. Aktifkan menu *tampilkan petunjuk*.
 ##### 3. Tarik garis dari penggaris sampai ke posisi yang anda inginkan. Maka akan muncul semacam garis guide (petunjuk). Jika *tampilkan petunjuk* dinonaktifkan, maka garis guide itu akan hilang. Shortcut untuk *tampilkan petunjuk* adalah `Ctrl + ;`.
 
+#### d. *Tampilkan pembatas* untuk menampilkan margin di dalam kanvas. Tampilan :
+![enter image description here](img/image37.jpg)
+#### e. *Tampilkan bleed cetak* untuk menunjukkan garis bleed yang berguna jika anda ingin print desain ini dan tidak ingin ada sisa putih pada hasil print anda. Tampilan terdapat garis putus-putus mengelilingi kanvas:
+![enter image description here](img/image11.jpg)
+#### f. *Simpan* untuk simpan desain;
+#### g. *Simpan ke folder* untuk mengorganisir desain pada folder tertentu;
+#### h. *Perubahan Komentar* untuk menampilkan comment yang sudah resolved;
+#### i. *Riwayat versi* dapat melihat versi desain pada waktu tertentu pada masa lalu;
+#### j. *Buat salinan* untuk membuat copy dari desain sekarang.
+
 ### 3.) Ubah Ukuran (Canva Pro)
+Menu ini dapat membuat desain dengan resolusi yang berbeda secara pintar, dengan desain yang sekarang.
+
 ### 4.) Status Menyimpan
+Anda dapat melihat status saving pada desainmu pada bagian ini.
 ### 5.) Judul Desain
+Merupakan field untuk anda menuliskan judul dari desain yang sedang anda buat.
 ### 6.) Coba Canva Pro
+Menu ini untuk memudahkanmu untuk mengakses atau purchase Canva premium.
 ### 7.) Bagikan
+Anda dapat share file desain ke orang lain, baik dengan akses view, edit, atau dapat menggunakan sebagai template. Anda dapat menginvite orang lain dengan menambahkan email mereka atau memberi mereka shareable link. Tampilan :
+![enter image description here](img/image32.jpg)
+
 ### 8.) Unduh
+Di sini kamu dapat mendownload / mengexport hasil desain. Terdapat beberapa peraturan export juga di sini. Tampilan apabila anda menekan tombol unduh :
+
+![enter image description here](img/image56.jpg)
+Tampilan jenis file:
+![enter image description here](img/image10.jpg)
+
+Anda dapat memilih jenis file yang akan anda unduh sesuai dengan jenis file yang ingin anda dapatkan.
+
 ### 9.) Opsi Lain
+Opsi lain ini berbentuk 3 titik ke samping. Terdapat beberapa opsi bagaimana anda ingin mempublish desain anda. Ada bagian **Dianjurkan, bagikan**, dan **cetak**. Tampilan :
+![enter image description here](img/image68.jpg)
+
 ### 10.) Template
 ### 11.) Elemen
 ### 12.) Unggah
