@@ -94,15 +94,53 @@ Apabila anda memilih pilihan tersebut maka tampilan selanjutnya yang akan ditamp
 Sama seperti sebelumnya, maka selanjutnya anda akan diarahkan ke halaman desain dengan ukuran kanvas yang telah anda tentukan.
 
 ### 7. Akun
-### 8. Direkomendasikan
-### 9. Semua Desain Anda
-### 10. Dibagi dengan anda
-### 11. Kit Merek
-### 12. Perencanaan Konten
-### 13. Semua Folder Anda
-### 14. Sampah
-### 15. Pribadi
+Pada menu ini anda disuguhkan beberapa pilihan, dimana terdapat pilihan sebagai berikut :
 
+![enter image description here](img/image82.jpg)
+
+Pada pilihan pengaturan akun anda dapat mengubah mengubah profil foto dan sebagainya. Tampilan sebagai berikut :
+
+![enter image description here](img/image62.jpg)
+
+### 8. Direkomendasikan
+Di sini terdapat sekilas template-template yang mungkin anda sukai, juga design yang sudah anda pernah buat sebelumnya. Hal ini memudahkan jika anda langsung ingin mengakses design yang terakhir kali anda buat. Tampilan halaman sebagai berikut :
+
+![enter image description here](img/image29.jpg)
+
+### 9. Semua Desain Anda
+Adalah tempat semua file design yang telah anda buat. Tampilan sebagai berikut :
+
+![enter image description here](img/image98.jpg)
+
+### 10. Dibagi dengan anda
+Jika anda pernah sharing design anda atau membuka file sharing dari orang lain, file tersebut akan muncul di sini. Tampilan sebagai berikut :
+
+![enter image description here](img/image1.jpg)
+
+### 11. Kit Merek
+Menu ini untuk mendesain sebuah brand. Canva mempercepat proses pembuatan brand, baik itu logo dan sebagainya. Canva menyediakan palet, font, dan lainnya yang dibutuhkan untuk mendesain sebuah brand. Tampilan sebagai berikut :
+
+![enter image description here](img/image55.jpg)
+
+### 12. Perencanaan Konten
+Anda dapat merencanakan konten apa yang akan anda buat pada menu ini. Di mana pada menu tersebut anda akan diarahkan ke halaman berupa kalender untuk membuat agenda. Tampilan sebagai berikut :
+
+![enter image description here](img/image83.jpg)
+
+### 13. Semua Folder Anda
+Menu ini memudahkan anda untuk mengorganisir file-file desain yang telah anda buat. Tampilan sebagai berikut :
+
+![enter image description here](img/image79.jpg)
+
+### 14. Sampah
+Jika ada file desain yang anda buang ke tempat sampah, file itu akan masuk ke trash dulu, sebelum bisa di-delete permanen atau di-restore. Tampilan sebagai berikut :
+
+![enter image description here](img/image90.jpg)
+
+### 15. Pribadi
+Pada menu ini anda dapat memilih template yang telah anda buat sebelumnya, membuat tim dan lain-lain. Tampilan sebagai berikut:
+
+![enter image description here](img/image18.jpg)
 
 ## 3.2 Halaman Design
 ## 3.3 
