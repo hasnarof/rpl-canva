@@ -200,13 +200,16 @@ Anda dapat share file desain ke orang lain, baik dengan akses view, edit, atau d
 Di sini kamu dapat mendownload / mengexport hasil desain. Terdapat beberapa peraturan export juga di sini. Tampilan apabila anda menekan tombol unduh :
 
 ![enter image description here](img/image56.jpg)
+
 Tampilan jenis file:
+
 ![enter image description here](img/image10.jpg)
 
 Anda dapat memilih jenis file yang akan anda unduh sesuai dengan jenis file yang ingin anda dapatkan.
 
 ### 9.) Opsi Lain
 Opsi lain ini berbentuk 3 titik ke samping. Terdapat beberapa opsi bagaimana anda ingin mempublish desain anda. Ada bagian **Dianjurkan, bagikan**, dan **cetak**. Tampilan :
+
 ![enter image description here](img/image68.jpg)
 
 ### 10.) Template
