@@ -13,20 +13,17 @@ Tentu untuk mengakses atau menggunakan canva terlebih dahulu dianjurkan untuk me
 
 Adapun langkah-langkahnya sebagai berikut :
 
-1. Membuka halaman canva dengan alamat www.canva.com pada penelusuran google, sebagai berikut :
+#### 1. Membuka halaman canva dengan alamat www.canva.com pada penelusuran google, sebagai berikut :
 ![enter image description here](img/image34.jpg)
-1.  Maka selanjutnya tampilan yang akan diberikan adalah halaman utama canva. Selanjutnya arahkan kursor anda ke tombol Daftar dan klik tombol tersebut.![enter image description here](img/image6.jpg)
-2. Tampilan yang akan diberikan selanjutnya merupakan pop up pendaftaran dengan akun google, akun facebook, atau email yang anda punya. Anda cukup memilih satu di antaranya.
+#### 2.  Maka selanjutnya tampilan yang akan diberikan adalah halaman utama canva. Selanjutnya arahkan kursor anda ke tombol Daftar dan klik tombol tersebut.![enter image description here](img/image6.jpg)
+#### 3. Tampilan yang akan diberikan selanjutnya merupakan pop up pendaftaran dengan akun google, akun facebook, atau email yang anda punya. Anda cukup memilih satu di antaranya.
 ![enter image description here](img/image69.jpg)
 Apabila anda memilih :
-
-a. **Daftar dengan Google**, maka anda akan diarahkan untuk memilih akun google yang ingin anda daftarkan.
+##### a. **Daftar dengan Google**, maka anda akan diarahkan untuk memilih akun google yang ingin anda daftarkan.
 ![enter image description here](img/image12.jpg)
-
-b.  **Daftar dengan Facebook**, maka anda akan diarahkan ke halaman Log In facebook.
+##### b.  **Daftar dengan Facebook**, maka anda akan diarahkan ke halaman Log In facebook.
 ![enter image description here](img/image31.jpg)
-
-c. **Daftar dengan email**, maka anda akan diarahkan ke halaman pendaftaran dengan email.
+##### c. **Daftar dengan email**, maka anda akan diarahkan ke halaman pendaftaran dengan email.
 ![enter image description here](img/image47.jpg)
 # Mengenal Canva
 # Langkah Mendesain pada Canva
