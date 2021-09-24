@@ -48,29 +48,35 @@ Adapun anda dapat memilih satuan ukuran yang disediakan yaitu :
 Anda dapat memulai desain anda dengan menggunakan template yang telah disediakan oleh canva. Template tersebut dapat anda dapatkan secara gratis maupun berlangganan dari platform canva ini (canva pro). Tampilan berikut merupakan contoh penggunaan template yang disediakan gratis oleh canva pada ppt.  
   
 ![image42](https://user-images.githubusercontent.com/55240758/134611406-fc82d4ae-e24a-44c2-bcbb-2cd7185f19e8.jpg)  
+<p align="center">Gambar 4.6 Penggunaan template pada ppt</p>
   
 Dimana apabila anda telah menemukan template yang sesuai, anda dapat menyimpan ppt tersebut maupun mengunduhnya. Adapun langkahnya sebagai berikut :  
 ##### 1.) Memberikan nama  
 Berikan nama pada desain yang telah anda buat, dengan mengisi field yang telah ditandai merah dalam gambar berikut.  
   
-  ![image70](https://user-images.githubusercontent.com/55240758/134611607-d657fdd6-40a8-43d8-a3c2-6f09350373ef.jpg)
+![image70](https://user-images.githubusercontent.com/55240758/134611607-d657fdd6-40a8-43d8-a3c2-6f09350373ef.jpg)
+<p align="center">Gambar 4.7 Memberikan nama pada desain ppt</p>
 
 ##### 2.) Mengunduh desain   
 Anda dapat mengunduh desain yang telah anda buat dengan format **.pdf**, **.jpg**, **.png**, **.svg** yakni dengan menekan tombol unduh yang telah ditandai merah pada gambar berikut.  
   
-  ![image33](https://user-images.githubusercontent.com/55240758/134611675-042c6b7d-a037-4d4f-ad50-c834a7187d9b.jpg)
+![image33](https://user-images.githubusercontent.com/55240758/134611675-042c6b7d-a037-4d4f-ad50-c834a7187d9b.jpg)
+<p align="center">Gambar 4.8.1 Mengunduh desain ppt</p>
   
 Lain halnya apabila anda ingin mengunduh ppt tersebut dalam format **.ppt atau .pptx** maka anda dapat :  
   
-  ![image10](https://user-images.githubusercontent.com/55240758/134611728-c5ebacf2-c100-4a0c-83d9-faeaa201853d.jpg)
+![image10](https://user-images.githubusercontent.com/55240758/134611728-c5ebacf2-c100-4a0c-83d9-faeaa201853d.jpg)
+<p align="center">Gambar 4.8.2 Mengunduh desain ppt</p>
   
 Adapun apabila anda ingin mempresentasikannya langsung melalui canva anda dapat menekan tombol **Tampilkan**, sebagai berikut : 
   
 ![image48](https://user-images.githubusercontent.com/55240758/134611805-58aefe68-0cd5-46c9-b6cc-cfe55fa35cb1.jpg)  
+<p align="center">Gambar 4.9 Mempresentasikan ppt pada canva</p>
   
 Selain itu apabila anda ingin mengaksesnya di kemudian hari, dengan mencarinya pada opsi Semua Desain Anda yang ada pada halaman utama canva.  
   
-  ![23](https://user-images.githubusercontent.com/55240758/134611893-0638c52c-e412-4777-a258-4989b3f25c85.jpg)
+![23](https://user-images.githubusercontent.com/55240758/134611893-0638c52c-e412-4777-a258-4989b3f25c85.jpg)
+<p align="center">Gambar 4.10 Tampilan opsi semua desain anda</p>
   
 Apabila anda ingin menggunakan desain yang telah anda buat sebelumnya, anda cukup memilih atau menekan desain mana yang ingin anda gunakan kembali pada opsi ini. Setelah anda pilih maka anda akan diarahkan ke halaman desain yang telah anda buat sebelumnya.  
   
@@ -78,6 +84,7 @@ Apabila anda ingin menggunakan desain yang telah anda buat sebelumnya, anda cuku
 Anda dapat pula mengkreasikan desain anda dengan menggunakan elemen yang telah dijelaskan sebelumnya. Elemen tersebut terdiri dari stiker, foto, dan video. Dimana elemen tersebut bisa anda dapatkan secara gratis maupun berlangganan dari platform canva ini (canva pro).   
   
 ![image18](https://user-images.githubusercontent.com/55240758/134612301-29b7a935-0c03-4087-924a-3a818dd08495.jpg)
+<p align="center">Gambar 4.11 Penggunaan Elemen</p>
 
 #### 2.1 Mengatur Elemen
 Setelah anda mengetahui cara menggunakan elemen selanjutnya anda perlu mengetahui pengaturan yang dapat diberikan terhadap elemen.  
@@ -88,10 +95,12 @@ Adapun cara yang dapat anda gunakan untuk memposisikan elemen sebagai berikut:
 - Memposisikan satu elemen dengan klik satu elemen yang akan diposisikan.  
   
 ![image26](https://user-images.githubusercontent.com/55240758/134612417-b520ea0b-6882-4591-8f43-4ea2482b3c17.jpg)
+<p align="center">Gambar 4.12 Mengatur posisi elemen</p>
   
 - Memposisikan banyak elemen dengan menselect tiap elemen dengan cara klik dan drag kursor anda ke elemen mana saja yang akan anda posisikan. 
    
-  ![image112](https://user-images.githubusercontent.com/55240758/134612483-26c6e201-6482-421f-8ab4-c6a6c352d49e.jpg)  
+![image112](https://user-images.githubusercontent.com/55240758/134612483-26c6e201-6482-421f-8ab4-c6a6c352d49e.jpg)  
+<p align="center">Gambar 4.13 Memposisikan banyak elemen</p>
  
  
 ##### 2.1.2 Pengelompokan Element (_Grouping Element_)  
@@ -104,80 +113,91 @@ Terdapat **2 cara** untuk melakukan grouping pada canva melalui pc atau laptop :
   **Cara 2 :** Select tiap elemen yang akan di grupkan dengan cara klik setiap elemen dengan menekan tombol shift pada keyboard. Lalu klik kanan untuk menampilkan option **Gabung** atau klik tombol **Kelompokkan** pada panel atas untuk mengelompokkan elemen.  
   
 ![image28](https://user-images.githubusercontent.com/55240758/134612770-16421580-4932-4da3-82d6-8053792742a0.jpg)
+<p align="center">Gambar 4.14 Pengelompokan elemen</p>
   
 ##### 2.1.3 Pengaturan Elemen: Foto & Stiker
 Pengaturan elemen foto dan stiker merupakan fitur yang memudahkan anda dalam mengedit elemen tersebut. Tampilan pengaturan elemen untuk foto dan stiker sebagai berikut.  
   
   ![image4](https://user-images.githubusercontent.com/55240758/134613398-549b94be-8a4e-4d40-8798-109bd20431ca.jpg)
-<p align="center">Gambar 4.14 Sub fitur pengaturan efek</p>
+<p align="center">Gambar 4.15 Pengaturan elemen gambar & foto</p>
    
 Berdasarkan gambar diatas, fitur pengaturan foto & stiker pada canva sangatlah banyak yakni : 
   
 **1. Efek :**   fitur yang dapat memudahkan anda dalam membuat efek pada foto atau stiker sesuai dengan keinginan anda.   
   
 <img src="https://user-images.githubusercontent.com/55240758/134613628-b3889ded-ad1d-4be1-b8a2-915ed1f6af0b.jpg"/>  
-<p align="center">Gambar 4.15 Sub fitur pengaturan efek</p>
+<p align="center">Gambar 4.16 Sub fitur pengaturan efek</p>
 
 Pada bagan efek tersebut terbagai menjadi beberapa sub fitur yaitu :  
 - **Pengaturan tone foto atau stiker**  
 Pada pengaturan tone foto atau stiker telah disediakan beberapa pilihan yang dapat anda pilih sesuai dengan yang anda inginkan. Pada contoh di bawah ini foto menggunakan tone Fresco.  
   
 ![image23](https://user-images.githubusercontent.com/55240758/134616293-85d9c671-fdb2-4aab-af64-4b53a23846bd.jpg)
-<p syle= "align= center">Gambar 4.16 pengaturan tone pada foto</p>
+<p syle= "align= center">Gambar 4.17 pengaturan tone pada foto</p>
   
 - **Penggunaan smart mockup**  
 Memudahkan kita dalam membuat desain suatu prototype sederhana. Pada gambar berikut merupakan contoh penerapan mockup.  
   
 ![image107](https://user-images.githubusercontent.com/55240758/134616338-f91532d8-ba97-4b73-9ddc-6eefb4dce983.jpg)
-Gambar 4.17 Penerapan mockup
+<p syle= "align= center">Gambar 4.18 Penggunaan smart mock up pada foto</p>
   
 - **Penggunaan frame pada foto**  
 Seperti halnya foto pada frame, anda dapat menggunakan frame untuk foto yang akan anda gunakan dalam mempercantik desain yang anda buat.  
    
 ![image120](https://user-images.githubusercontent.com/55240758/134616446-333b5d80-ad5c-49da-87e6-434927286b31.jpg)
-
+<p syle= "align= center">Gambar 4.19 Penggunaan frame pada foto</p>
+  
 - **Penggunaan shadows pada foto**  
 Fitur ini akan memberikan bayangan terhadap foto atau elemen yang anda inginkan.  
   
-![image3](https://user-images.githubusercontent.com/55240758/134616465-270b05d0-0d19-4a27-b63f-4198dffd4823.jpg)
+![image3](https://user-images.githubusercontent.com/55240758/134616465-270b05d0-0d19-4a27-b63f-4198dffd4823.jpg)  
+<p syle= "align= center">Gambar 4.20 Penggunaan shadows pada foto</p>
   
 **2. Filter :** Filter merupakan salah satu fitur sudah sering kita dengar. Adapun filter yang disediakan canva sebagai berikut.  
   
-  ![image119](https://user-images.githubusercontent.com/55240758/134617617-2b972ef8-64e7-4529-814f-0f660aeacabb.jpg)
+![image119](https://user-images.githubusercontent.com/55240758/134617617-2b972ef8-64e7-4529-814f-0f660aeacabb.jpg)
+<p syle= "align= center">Gambar 4.21 </p>
   
 **3. Sesuaikan :** Pada fitur ini kita dapat mengatur secara manual tone foto yang kita inginkan atau dapat dikatakan kita membuat filter secara custom.  
   
-  ![image81](https://user-images.githubusercontent.com/55240758/134617807-2dbbb322-c3ef-4266-8ee5-dd2f1dcce76f.jpg)
-
+![image81](https://user-images.githubusercontent.com/55240758/134617807-2dbbb322-c3ef-4266-8ee5-dd2f1dcce76f.jpg)
+<p syle= "align= center">Gambar 4.22 Penggunaan smart mock up</p>
+  
 **4. Pangkas :** Fitur untuk memotong area yang tidak diperlukan. 
   
-  ![image116](https://user-images.githubusercontent.com/55240758/134617907-ef77df55-f650-4067-9369-f29e193c62f0.jpg)
-
+![image116](https://user-images.githubusercontent.com/55240758/134617907-ef77df55-f650-4067-9369-f29e193c62f0.jpg)
+<p syle= "align= center">Gambar 4.23 Penggunaan smart mock up</p>
+  
 **5. Balik(_miror_) :**
   
-  ![image89](https://user-images.githubusercontent.com/55240758/134618139-8d20cc63-b5a2-4a39-834e-0aa057718cde.jpg)
-
+![image89](https://user-images.githubusercontent.com/55240758/134618139-8d20cc63-b5a2-4a39-834e-0aa057718cde.jpg) 
+<p syle= "align= center">Gambar 4.24 Penggunaan smart mock up</p>
+  
 **6. Animasi :** Fitur untuk menganimasikan foto sesuai dengan yang animasi yang kita inginkan. Adapun animasi yang disediakan oleh canva sangat bervariasi.  
  
-  ![image51](https://user-images.githubusercontent.com/55240758/134618504-545be164-c9f2-472c-b001-242d33d0a8c2.jpg)
-
+![image51](https://user-images.githubusercontent.com/55240758/134618504-545be164-c9f2-472c-b001-242d33d0a8c2.jpg)  
+<p syle= "align= center">Gambar 4.25 Penggunaan smart mock up</p>
   
-**7. Posisi :** *akan dijelaskan di materi selanjutnya
+**7. Posisi :** *akan dijelaskan di materi selanjutnya  
 **8. Salin Gaya :**  Fitur menyalin gaya yang telah diterapkan pada elemen lain salah satunya gaya yang berupa filter.  
   
- ![image84](https://user-images.githubusercontent.com/55240758/134618585-81231265-b6a3-4247-873f-4161ab762d23.jpg)
+![image84](https://user-images.githubusercontent.com/55240758/134618585-81231265-b6a3-4247-873f-4161ab762d23.jpg)
+<p syle= "align= center">Gambar 4.26 Penggunaan smart mock up</p>
   
 **9. Transparansi :** Fitur tersebut berfungsi untuk mengatur transparansi dari elemen anda.  
   
-  ![image14](https://user-images.githubusercontent.com/55240758/134618657-3bc10617-8770-4d36-a2f5-90ba66dd69d8.jpg)
-
+![image14](https://user-images.githubusercontent.com/55240758/134618657-3bc10617-8770-4d36-a2f5-90ba66dd69d8.jpg)  
+<p syle= "align= center">Gambar 4.27 Penggunaan smart mock up</p>
+  
 **10. Tautan :** Elemen foto dan stiker dapat anda tautkan dengan suatu link dengan menekan tombol **Tautan** yang kemudian terdapat field untuk memasukkan link yang akan ditautkan ke elemen tersebut. Fungsi dari penautan tersebut yakni apabila elemen tersebut diklik maka secara otomatis akan diarahkan ke halaman tautan link yang telah diberikan.  
   
-  ![image29](https://user-images.githubusercontent.com/55240758/134618736-7ebb09f9-e5c9-46ea-9a86-5b1bfa17f078.jpg)
+![image29](https://user-images.githubusercontent.com/55240758/134618736-7ebb09f9-e5c9-46ea-9a86-5b1bfa17f078.jpg)  
+<p syle= "align= center">Gambar 4.28 Penggunaan smart mock up</p>
   
 **11. Kunci :** Merupakan fitur yang memudahkan kita dalam mengantisipasi terjadinya perubahan secara tidak sengaja terhadap suatu desain atau elemen yang telah dipastikan tidak akan ada perubahan.
   
 ![image21](https://user-images.githubusercontent.com/55240758/134618830-612598a9-8733-4bf5-966d-45f8ec9ad463.jpg)
+<p syle= "align= center">Gambar 4.29 Penggunaan smart mock up</p>
   
 **12. Duplikat :** Untuk menduplikasikan elemen.  
 **13. Hapus :** Untuk menghapus elemen.  
