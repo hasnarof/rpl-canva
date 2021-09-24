@@ -186,29 +186,18 @@ Fitur ini akan memberikan bayangan terhadap foto atau elemen yang anda inginkan.
 Pengaturan elemen video merupakan fitur yang memudahkan anda dalam mengedit elemen tersebut. Tampilan pengaturan elemen video sebagai berikut.  
   
  ![image82](https://user-images.githubusercontent.com/55240758/134619076-383fe64d-1ce0-42bd-b27c-8594de200adb.jpg)
-  
-**1. Cut video**  
-Fitur untuk memangkas durasi video atau konten pada durasi tertentu.
-**2. Pemutaran presentasi**  
-Fitur untuk menentukan bagaimana pemutaran video saat berjalan.
-**3. Pangkas size video**  
-Fitur untuk memangkas ukuran dimensi video.
-**4. Balik (_mirror video_)**  
-Fitur untuk mirroring video baik secara horizontal atau vertikal
-**5. Animasi**  
-Fitur untuk menganimasikan video
-**6. Posisi**  
-Fitur untuk menentukan posisi video dalam kanvas
-**7. Sound**  
-Fitur untuk mengatur intensitas suara pada video
-**8. Transparansi**  
-Fitur untuk mengatur transparansi suatu video
-**9. Kunci**  
-Fitur ini memiliki fungsi yang sama seperti fitur untuk elemen foto dimana merupakan sebuah fitur yang memudahkan kita dalam mengantisipasi terjadinya perubahan secara tidak sengaja terhadap suatu desain atau elemen yang telah dipastikan tidak akan ada perubahan.
-**10. Duplikat**  
-Fitur untuk menduplikasikan elemen video
-**11. Hapus**  
-Fitur untuk menghapus elemen video
+    
+**1. Cut video :** Fitur untuk memangkas durasi video atau konten pada durasi tertentu.  
+**2. Pemutaran presentasi :** Fitur untuk menentukan bagaimana pemutaran video saat berjalan.  
+**3. Pangkas size video :** Fitur untuk memangkas ukuran dimensi video.  
+**4. Balik (_mirror video_) :** Fitur untuk mirroring video baik secara horizontal atau vertikal.  
+**5. Animasi :** Fitur untuk menganimasikan video.  
+**6. Posisi :** Fitur untuk menentukan posisi video dalam kanvas.  
+**7. Sound :** Fitur untuk mengatur intensitas suara pada video.  
+**8. Transparansi :** Fitur untuk mengatur transparansi suatu video.  
+**9. Kunci :** Fitur ini memiliki fungsi yang sama seperti fitur untuk elemen foto dimana merupakan sebuah fitur yang memudahkan kita dalam mengantisipasi terjadinya perubahan secara tidak sengaja terhadap suatu desain atau elemen yang telah dipastikan tidak akan ada perubahan.  
+**10. Duplikat** Fitur untuk menduplikasikan elemen video.  
+**11. Hapus** Fitur untuk menghapus elemen video.  
 
 ## 3. Mengunggah  
   
@@ -236,14 +225,86 @@ c. Pilih warna standar
 ## 6. Menggunakan Teks  
 Pada canva disediakan beberapa pilihan template text, selain itu terdapat pula kolom text yang dapat anda sesuaikan dengan kebutuhan. Diantaranya yaitu kolom teks untuk judul, sub judul dan sedikit teks.  
   
+  ![image83](https://user-images.githubusercontent.com/55240758/134619918-d30baec0-788b-4ec0-a752-61803591d7d2.jpg)
   
-### 4.6.1 Mengubah font
-### 4.6.2 Mengubah ukuran font
-### 4.6.3 Mengubah warna font
-### 4.6.4 Menjadikan Teks Bold
-### 4.6.5 Menjadikan Teks Italic
-### 4.6.6 Mengubah format perataan teks
-### 4.6.7 Menjadikan teks sebagai list
-### 4.6.8 Mengatur jarak antar teks
-### 4.6.9 Memberikan efek pada teks
-### 4.6.10 Memberikan animasi pada teks
+  Teks tersebut dapat anda sesuaikan dengan kebutuhan dan kreativitas anda dengan mengubah font, ukuran, warna, efek dan lain-lain. Mari kita bahas :
+  
+  ### 6.1 Mengubah Font
+  ![image83](https://user-images.githubusercontent.com/55240758/134620300-699f87cc-2fcf-4061-b444-55219aa8e426.jpg)  
+  
+  ### 6.2 Mengubah ukuran font
+  ![image17](https://user-images.githubusercontent.com/55240758/134620391-c6977c74-6125-40f5-9ecc-3464dbbaaeb3.jpg)  
+    
+  Anda dapat mengubah ukuran font dengan menekan tombol ‘ **+** ‘ untuk memperbesar ukuran font dan tombol   ‘ **-** ‘   untuk memperkecil ukuran font.  
+  
+  ### 6.3 Mengubah warna font
+    
+    ![image91](https://user-images.githubusercontent.com/55240758/134620885-7828d545-4d38-41f4-a96f-3f0a91d3a2a0.jpg)  
+      
+Anda dapat mengatur warna teks yang anda inginkan dengan beberapa cara yakni:  
+  
+a. Memasukkan kata kunci warna berupa nama atau kode warna pada pencarian  
+    
+  ![image113](https://user-images.githubusercontent.com/55240758/134621028-a9930285-a7e2-4c8d-a34f-ac06644e4669.jpg)
+
+b. Kustom warna
+  
+  ![image77](https://user-images.githubusercontent.com/55240758/134621078-f3d96e3e-0f23-4ca5-95fb-994e60497b6e.jpg)
+
+c. Pilih warna standar  
+  
+![image32](https://user-images.githubusercontent.com/55240758/134621138-b497ebf4-3951-4257-9406-7e47234fedb4.jpg)
+
+  ### 6.4 Menjadikan Teks Bold
+    
+    ![image61](https://user-images.githubusercontent.com/55240758/134621172-8a87c5e0-e459-4103-84d0-12ce55426910.jpg)  
+      
+    Jika anda ingin menerapkan teks bold dengan menekan tombol B, maka teks akan berubah menjadi lebih tegas.
+
+  ### 6.5 Menjadikan Teks Italic
+    
+    ![image111](https://user-images.githubusercontent.com/55240758/134621280-604c966f-e262-4fc7-b3e7-c8d060764f0c.jpg)
+  
+   Jika anda ingin menerapkan teks bold dengan menekan tombol I, maka teks akan berubah menjadi miring atau italic.
+
+  ### 6.6 Mengubah format perataan teks
+    Terdapat 4 jenis align teks atau perataan teks yang disediakan canva yaitu :
+**a. Perataan kiri kanan (_justify_)
+**   
+  
+  ![image9](https://user-images.githubusercontent.com/55240758/134621430-03ad3e27-34b6-42b6-a5dd-2d6fda9d5243.jpg)
+
+**b. Pertaan tengah (_center_)**  
+  
+  ![image87](https://user-images.githubusercontent.com/55240758/134621537-9950bea9-4664-4a43-8b40-9fba3ca6f272.jpg)
+
+**c. Perataan kiri (_align text left_)**  
+  
+  ![image86](https://user-images.githubusercontent.com/55240758/134621609-2fc97617-10b1-4b04-9000-e26b7d0b813e.jpg)
+
+ **d. Perataan kanan (_align text right_)**  
+   
+   ![image45](https://user-images.githubusercontent.com/55240758/134621668-84f1fef7-31d2-431b-89c9-ba7ff7b036e7.jpg)
+
+   
+  ### 6.7 Menjadikan teks sebagai list
+      
+   
+    
+  ### 6.8 Mengatur jarak antar teks  
+    
+    ![image2](https://user-images.githubusercontent.com/55240758/134621727-c439f800-f8c9-4017-a58e-4b69b6976dc2.jpg)
+
+    Anda dapat mengatur jarak huruf maupun baris teks dengan menggeserkan indikator hingga sesuai dengan jarak yang anda inginkan. Selain itu anda dapat menginputkan ukuran jarak pada field yang telah disediakan.
+
+    
+  ### 6.9 Memberikan efek pada teks  
+    
+    
+  ### 6.10 Memberikan animasi pada teks  
+    
+  ![image92](https://user-images.githubusercontent.com/55240758/134621841-679f1ffd-4117-41e4-96ab-e7d52b36ecfc.jpg)
+    
+    Canva telah menyediakan berbagai macam animasi yang sangat menarik sehingga Anda dapat memberikan animasi pada teks anda sesuai dengan kreatifvitas anda dengan mudah dan praktis.
+
+    
