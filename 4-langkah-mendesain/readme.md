@@ -315,7 +315,7 @@ Anda dapat memilih efek serta mengkostumisasikannya terhadap teks sesuai dengan 
 
 ![image118](https://user-images.githubusercontent.com/55240758/134623060-c8b84cba-110b-4b76-b3ab-97896d8f986b.png)
   
-Beberapa efek teks yang disediakan yaitu :  
+Berdasarkabn gambar diatas, terdapat beberapa efek teks yang disediakan yaitu :  
   
 **a. Bayangan**  
 Sesuai dengan namanya penggunaan efek ini akan memberikan efek bayangan pada teks. Anda dapat mengatur offset, arah, buram, transparansi, dan warna dari bayangan yang ingin dibentuk dari teks tersebut.  
