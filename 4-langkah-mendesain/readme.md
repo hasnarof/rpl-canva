@@ -72,7 +72,7 @@ Anda dapat mengunduh desain yang telah anda buat dengan format **.pdf**, **.jpg*
 Lain halnya apabila anda ingin mengunduh ppt tersebut dalam format **.ppt atau .pptx** maka anda dapat :  
   
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/134611728-c5ebacf2-c100-4a0c-83d9-faeaa201853d.jpg)"/>
+<img src="https://user-images.githubusercontent.com/55240758/134611728-c5ebacf2-c100-4a0c-83d9-faeaa201853d.jpg"/>
 </p>
 <p align="center">Gambar 4.8.2 Mengunduh desain ppt</p>
   
