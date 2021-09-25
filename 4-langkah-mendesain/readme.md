@@ -109,7 +109,7 @@ Adapun cara yang dapat anda gunakan untuk memposisikan elemen sebagai berikut:
 - Memposisikan satu elemen dengan klik satu elemen yang akan diposisikan.  
   
 <p align="center">
-</img src="https://user-images.githubusercontent.com/55240758/134612417-b520ea0b-6882-4591-8f43-4ea2482b3c17.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/134612417-b520ea0b-6882-4591-8f43-4ea2482b3c17.jpg"/>
 </p>
 <p align="center">Gambar 4.12 Mengatur posisi elemen</p>
   
