@@ -389,7 +389,9 @@ Anda dapat mengatur jarak huruf maupun baris teks dengan menggeserkan indikator 
   
 Anda dapat memilih efek serta mengkostumisasikannya terhadap teks sesuai dengan kebutuhan dan kreatifitas anda melalui beberapa efek teks yang telah disediakan.
 
-![image118](https://user-images.githubusercontent.com/55240758/134623060-c8b84cba-110b-4b76-b3ab-97896d8f986b.png)
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/55240758/134623060-c8b84cba-110b-4b76-b3ab-97896d8f986b.png"/>
+</p>
 <p align= "center">Gambar 4.50 Penggunaan smart mock up</p>
   
 Berdasarkabn gambar diatas, terdapat beberapa efek teks yang disediakan yaitu :  
