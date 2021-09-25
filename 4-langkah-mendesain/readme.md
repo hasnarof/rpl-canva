@@ -190,19 +190,21 @@ Fitur ini akan memberikan bayangan terhadap foto atau elemen yang anda inginkan.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/134617617-2b972ef8-64e7-4529-814f-0f660aeacabb.jpg"/>
 </p>
-<p align= "center">Gambar 4.21 </p>
+<p align= "center">Gambar 4.21 Penggunaan filter pada foto</p>
   
 **3. Sesuaikan :** Pada fitur ini kita dapat mengatur secara manual tone foto yang kita inginkan atau dapat dikatakan kita membuat filter secara custom.  
   
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/134617807-2dbbb322-c3ef-4266-8ee5-dd2f1dcce76f.jpg"/>
 </p>
-<p align= "center">Gambar 4.22 Penggunaan smart mock up</p>
+<p align= "center">Gambar 4.22 Penyesuaian pada foto</p>
   
 **4. Pangkas :** Fitur untuk memotong area yang tidak diperlukan. 
   
+<p align = "center">
 <img src="https://user-images.githubusercontent.com/55240758/134617907-ef77df55-f650-4067-9369-f29e193c62f0.jpg"/>
-<p align= "center">Gambar 4.23 Penggunaan smart mock up</p>
+</p>
+<p align= "center">Gambar 4.23 Pemnagkasan foto up</p>
   
 **5. Balik(_miror_) :**
   
@@ -259,14 +261,16 @@ Pengaturan elemen video merupakan fitur yang memudahkan anda dalam mengedit elem
 ## 3. Mengunggah  
   
 ![image75](https://user-images.githubusercontent.com/55240758/134619261-2df8613b-46a1-4e95-aa24-29b4a04c5e6c.jpg)  
-     
+<p align= "center">Gambar 4.31 Penggunaan smart mock up</p>
+  
 Selain itu anda dapat pula mengunggah elemen yang ingin anda terapkan baik video, foto, maupun stiker  yang terdapat pada penyimpanan lokal anda seperti pc, laptop, maupun hp dengan cara :    
   a. menekan tombol unggah media lalu memilih apa yang ingin anda unggah.  
   b. drag and drop elemen ke kanvas anda.  
   
 ## 4. Mengubah Warna Halaman (background/kanvas)
   
-  ![image69](https://user-images.githubusercontent.com/55240758/134619548-a41c1748-86be-4c22-a17a-2f535862be5b.jpg)
+![image69](https://user-images.githubusercontent.com/55240758/134619548-a41c1748-86be-4c22-a17a-2f535862be5b.jpg)
+<p align= "center">Gambar 4.32 Penggunaan smart mock up</p>
   
 Anda dapat mengubah warna background atau kanvas sesuai warna yang anda inginkan. Dengan cara :  
 a. memasukkan kata kunci warna berupa nama atau kode warna pada pencarian  
@@ -276,40 +280,47 @@ c. Pilih warna standar
 ## 5. Menganimasikan Halaman  
   
 ![image98](https://user-images.githubusercontent.com/55240758/134619398-e5cf78e6-3beb-4a17-96ad-27b1ba7ad688.jpg)  
-  
+<p align= "center">Gambar 4.33 Penggunaan smart mock up</p> 
+   
  Pada bagian ini anda dapat menganimasikan halaman yakni semua komponen yang ada pada halaman tersebut akan bergerak sesuai animasi yang dipilih untuk halaman tersebut.
   
 ## 6. Menggunakan Teks  
 Pada canva disediakan beberapa pilihan template text, selain itu terdapat pula kolom text yang dapat anda sesuaikan dengan kebutuhan. Diantaranya yaitu kolom teks untuk judul, sub judul dan sedikit teks.  
   
 ![image83](https://user-images.githubusercontent.com/55240758/134619918-d30baec0-788b-4ec0-a752-61803591d7d2.jpg)
+<p align= "center">Gambar 4.34 Penggunaan smart mock up</p>
   
 Teks tersebut dapat anda sesuaikan dengan kebutuhan dan kreativitas anda dengan mengubah font, ukuran, warna, efek dan lain-lain. Mari kita bahas :
   
 ### 6.1 Mengubah Font
   
 ![image83](https://user-images.githubusercontent.com/55240758/134620300-699f87cc-2fcf-4061-b444-55219aa8e426.jpg)  
+<p align= "center">Gambar 4.35 Penggunaan smart mock up</p>  
   
 ### 6.2 Mengubah ukuran font
   
 ![image17](https://user-images.githubusercontent.com/55240758/134620391-c6977c74-6125-40f5-9ecc-3464dbbaaeb3.jpg)  
-    
+<p align= "center">Gambar 4.36 Penggunaan smart mock up</p>
+  
 Anda dapat mengubah ukuran font dengan menekan tombol ‘ **+** ‘ untuk memperbesar ukuran font dan tombol   ‘ **-** ‘   untuk memperkecil ukuran font.  
   
 ### 6.3 Mengubah warna font
     
 ![image91](https://user-images.githubusercontent.com/55240758/134620885-7828d545-4d38-41f4-a96f-3f0a91d3a2a0.jpg)  
-      
+<p align= "center">Gambar 4.37 Penggunaan smart mock up</p>
+  
 Anda dapat mengatur warna teks yang anda inginkan dengan beberapa cara yakni:  
   
 a. Memasukkan kata kunci warna berupa nama atau kode warna pada pencarian  
     
-  ![image113](https://user-images.githubusercontent.com/55240758/134621028-a9930285-a7e2-4c8d-a34f-ac06644e4669.jpg)
-
+![image113](https://user-images.githubusercontent.com/55240758/134621028-a9930285-a7e2-4c8d-a34f-ac06644e4669.jpg)
+<p align= "center">Gambar 4.38 Penggunaan smart mock up</p>
+  
 b. Kustom warna
   
-  ![image77](https://user-images.githubusercontent.com/55240758/134621078-f3d96e3e-0f23-4ca5-95fb-994e60497b6e.jpg)
-
+![image77](https://user-images.githubusercontent.com/55240758/134621078-f3d96e3e-0f23-4ca5-95fb-994e60497b6e.jpg)
+<p align= "center">Gambar 4.39 Penggunaan smart mock up</p>
+  
 c. Pilih warna standar  
   
 ![image32](https://user-images.githubusercontent.com/55240758/134621138-b497ebf4-3951-4257-9406-7e47234fedb4.jpg)
@@ -317,12 +328,14 @@ c. Pilih warna standar
 ### 6.4 Menjadikan Teks Bold
     
 ![image61](https://user-images.githubusercontent.com/55240758/134621172-8a87c5e0-e459-4103-84d0-12ce55426910.jpg)  
-      
+<p align= "center">Gambar 4.40 Penggunaan smart mock up</p>    
+  
 Jika anda ingin menerapkan teks bold dengan menekan tombol B, maka teks akan berubah menjadi lebih tegas.
 
 ### 6.5 Menjadikan Teks Italic
     
 ![image111](https://user-images.githubusercontent.com/55240758/134621280-604c966f-e262-4fc7-b3e7-c8d060764f0c.jpg)
+<p align= "center">Gambar 4.41 Penggunaan smart mock up</p>
   
 Jika anda ingin menerapkan teks bold dengan menekan tombol I, maka teks akan berubah menjadi miring atau italic.
 
@@ -333,44 +346,51 @@ Terdapat 4 jenis align teks atau perataan teks yang disediakan canva yaitu :
 **a. Perataan kiri kanan (_justify_)**   
   
 ![image9](https://user-images.githubusercontent.com/55240758/134621430-03ad3e27-34b6-42b6-a5dd-2d6fda9d5243.jpg)  
+<p align= "center">Gambar 4.42 Penggunaan smart mock up</p>
   
 **b. Pertaan tengah (_center_)**  
   
 ![image87](https://user-images.githubusercontent.com/55240758/134621537-9950bea9-4664-4a43-8b40-9fba3ca6f272.jpg)  
-
+<p align= "center">Gambar 4.43 Penggunaan smart mock up</p>
+  
 **c. Perataan kiri (_align text left_)**  
   
 ![image86](https://user-images.githubusercontent.com/55240758/134621609-2fc97617-10b1-4b04-9000-e26b7d0b813e.jpg)  
-
+<p align= "center">Gambar 4.44 Penggunaan smart mock up</p>
+  
  **d. Perataan kanan (_align text right_)**  
    
 ![image45](https://user-images.githubusercontent.com/55240758/134621668-84f1fef7-31d2-431b-89c9-ba7ff7b036e7.jpg)
-
+<p align= "center">Gambar 4.45 Penggunaan smart mock up</p>
    
 ### 6.7 Menjadikan teks sebagai list
   
 **a. List berupa titik**
   
 ![image31](https://user-images.githubusercontent.com/55240758/134622909-6e90cf55-61e5-445a-a98c-5f5d67c9af89.jpg)  
+<p align= "center">Gambar 4.46 Penggunaan smart mock up</p>
   
 **b. List berupa penomoran**
    
 ![image49](https://user-images.githubusercontent.com/55240758/134622936-858da962-ace5-43d3-a3a6-2856ef547879.jpg)
-
+<p align= "center">Gambar 4.47 Penggunaan smart mock up</p>
     
 ### 6.8 Mengatur jarak antar teks  
     
 ![image2](https://user-images.githubusercontent.com/55240758/134621727-c439f800-f8c9-4017-a58e-4b69b6976dc2.jpg)
+<p align= "center">Gambar 4.48 Penggunaan smart mock up</p>
   
 Anda dapat mengatur jarak huruf maupun baris teks dengan menggeserkan indikator hingga sesuai dengan jarak yang anda inginkan. Selain itu anda dapat menginputkan ukuran jarak pada field yang telah disediakan.
 
 ### 6.9 Memberikan efek pada teks  
   
 ![image39](https://user-images.githubusercontent.com/55240758/134623023-9253ee1e-5583-4040-8831-0c062fdaac03.jpg)
+<p align= "center">Gambar 4.49 Penggunaan smart mock up</p>
   
 Anda dapat memilih efek serta mengkostumisasikannya terhadap teks sesuai dengan kebutuhan dan kreatifitas anda melalui beberapa efek teks yang telah disediakan.
 
 ![image118](https://user-images.githubusercontent.com/55240758/134623060-c8b84cba-110b-4b76-b3ab-97896d8f986b.png)
+<p align= "center">Gambar 4.50 Penggunaan smart mock up</p>
   
 Berdasarkabn gambar diatas, terdapat beberapa efek teks yang disediakan yaitu :  
   
@@ -378,6 +398,7 @@ Berdasarkabn gambar diatas, terdapat beberapa efek teks yang disediakan yaitu :
 Sesuai dengan namanya penggunaan efek ini akan memberikan efek bayangan pada teks. Anda dapat mengatur offset, arah, buram, transparansi, dan warna dari bayangan yang ingin dibentuk dari teks tersebut.  
   
 ![image80](https://user-images.githubusercontent.com/55240758/134623597-944e8fef-d8d7-4df6-9d6d-76dd8155bca3.jpg)
+<p align= "center">Gambar 4.51 Penggunaan smart mock up</p>
   
 Note :  
 - Offset: mengatur jarak bayangan teks dengan teks.  
@@ -385,44 +406,46 @@ Note :
 - Buram	: mengatur keburaman dari bayangan teks.  
 - Transparansi : mengatur tingkat transparan dari bayangan teks.  
 - Warna : mengatur warna bayangan teks.  
-
-
+  
 **b. Timbul**   
 Penggunaan efek ini akan memberikan efek 3D terhadap teks dengan mengatur intensitas dari timbul yang ingin diberikan terhadap teks.  
   
 ![image76](https://user-images.githubusercontent.com/55240758/134623652-156a4f28-e757-4ac4-a740-0a1a944f3f37.jpg)  
+<p align= "center">Gambar 4.52 Penggunaan smart mock up</p>
   
 **c. Berongga**  
 Penggunaan efek ini memberikan efek teks yang berongga dengan menggunakan stroke atau ketebalannya. Anda pun dapat mengatur ketebalan yang diinginkan dengan menggeser indikator atau menginputkan ukuran ketebalan pada field yang telah disediakan.  
   
 ![image108](https://user-images.githubusercontent.com/55240758/134623704-40d1a02d-15a8-4c52-8a54-56864e1d0459.jpg)
+<p align= "center">Gambar 4.53 Penggunaan smart mock up</p>
   
 **d. Splice**  
 Penggunaan efek ini memberikan efek yang hampir mirip dengan berongga namun terdapat bayangan teks. Pengaturan dari efek ini terhadap teks mirip dengan pengaturan pada efek bayangan pada teks.  
   
   ![image59](https://user-images.githubusercontent.com/55240758/134623758-17b1107a-bb29-4724-8c7b-91390c004104.jpg)
-  
+ <p align= "center">Gambar 4.54 Penggunaan smart mock up</p>
+   
 Note :  
 - Offset 	: mengatur jarak bayangan teks dengan teks.  
 - Arah 	: mengatur arah bayangan dari teks dengan acuan 180 derajat (atas, bawah, kanan, kiri).  
 - Warna : mengatur warna bayangan teks.  
   
- 
 **e. Echo**
 Penggunaan efek ini memberikan efek bayangan yang banyak pada teks. Pengaturan efek ini sama seperti penjelasan sebelumnya.  
   
 ![image57](https://user-images.githubusercontent.com/55240758/134623787-086166b8-7b26-48b7-a50e-1c995ae481c3.jpg)
+<p align= "center">Gambar 4.55 Penggunaan smart mock up</p> 
   
 Note :  
 - Offset: mengatur jarak bayangan teks dengan teks.  
 - Arah 	: mengatur arah bayangan dari teks dengan acuan 180 derajat (atas, bawah, kanan, kiri).  
 - Warna : mengatur warna bayangan teks.  
-
-
+  
 **f. Glitch**
 Penggunaan efek ini akan memberikan efek glitch pada teks. Pengaturan dari efek ini terhadap teks mirip dengan pengaturan pada efek bayangan pada teks
   
 ![image56](https://user-images.githubusercontent.com/55240758/134623840-8ab2b72e-6c00-417d-8ca5-1a724c0d2bc5.png)
+<p align= "center">Gambar 4.56 Penggunaan smart mock up</p>
   
 Note :
 Offset 	: mengatur jarak glitch teks dengan teks.
@@ -430,18 +453,20 @@ Arah 	: mengatur arah glitch dari teks dengan acuan 180 derajat (atas, bawah, ka
 Warna : mengatur warna glitch pada teks.
 Neon
 Penggunaan efek ini akan memberikan efek neon pada teks yang dapat diatur intensitasnya.    
-
+  
 **g. Neon**  
   
 Penggunaan efek ini akan memberikan efek neon pada teks yang dapat diatur intensitasnya.
   
-  ![image16](https://user-images.githubusercontent.com/55240758/134623943-0791a698-cdb2-4c03-ab3d-e88b32bf2913.jpg)
+![image16](https://user-images.githubusercontent.com/55240758/134623943-0791a698-cdb2-4c03-ab3d-e88b32bf2913.jpg)
+<p align= "center">Gambar 4.57 Penggunaan smart mock up</p>
   
 Selain itu terdapat pengaturan bentuk teks yaitu menjadikan teks melengkung. Pada pengaturannya anda dapat mengatur seberapa kelengkungan teks yang anda inginkan dengan menggeser indikator atau memasukkan ukuran kelengkungan pada field yang tersedia.
-
+  
 ### 6.10 Memberikan animasi pada teks  
     
 ![image92](https://user-images.githubusercontent.com/55240758/134621841-679f1ffd-4117-41e4-96ab-e7d52b36ecfc.jpg)
+<p align= "center">Gambar 4.58 Penggunaan smart mock up</p>
     
 Canva telah menyediakan berbagai macam animasi yang sangat menarik sehingga Anda dapat memberikan animasi pada teks anda sesuai dengan kreatifvitas anda dengan mudah dan praktis.
 
