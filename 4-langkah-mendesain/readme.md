@@ -109,7 +109,7 @@ Adapun cara yang dapat anda gunakan untuk memposisikan elemen sebagai berikut:
 - Memposisikan satu elemen dengan klik satu elemen yang akan diposisikan.  
   
 <p align="center">
-</img src="https://user-images.githubusercontent.com/55240758/134612417-b520ea0b-6882-4591-8f43-4ea2482b3c17.jp"/>
+</img src="https://user-images.githubusercontent.com/55240758/134612417-b520ea0b-6882-4591-8f43-4ea2482b3c17.jpg"/>
 </p>
 <p align="center">Gambar 4.12 Mengatur posisi elemen</p>
   
@@ -206,7 +206,7 @@ Fitur ini akan memberikan bayangan terhadap foto atau elemen yang anda inginkan.
   
 **5. Balik(_miror_) :**
   
-<img src="https://user-images.githubusercontent.com/55240758/134618139-8d20cc63-b5a2-4a39-834e-0aa057718cde.jpg)"/>
+<img src="https://user-images.githubusercontent.com/55240758/134618139-8d20cc63-b5a2-4a39-834e-0aa057718cde.jpg"/>
 <p align= "center">Gambar 4.24 Penggunaan smart mock up</p>
   
 **6. Animasi :** Fitur untuk menganimasikan foto sesuai dengan yang animasi yang kita inginkan. Adapun animasi yang disediakan oleh canva sangat bervariasi.  
