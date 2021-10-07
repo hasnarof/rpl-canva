@@ -56,7 +56,7 @@ Contoh instagram puzzle feed:
 
 ![enter image description here]()
 
-6. Ubah sedemikian rupa. Untuk tulisan “Segera daftar...” Anda dapat mencopas dari “Untuk Kelas 7”.
+6. Ubah sedemikian rupa. Untuk tulisan “Segera daftar...” Anda dapat men-copy paste dari “Untuk Kelas 7”.
 
 ![enter image description here]()
 
