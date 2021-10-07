@@ -36,39 +36,39 @@ Contoh instagram puzzle feed:
 ## Membuat Poster
 1. Pada search bar, tulis `Blue Illustrated Heart Health Fair Flyer`.
 
-![enter image description here]()
+![enter image description here](/img/Capture3.PNG)
 
 2. Pilih template berikut.
 
-![enter image description here]()
+![enter image description here](/img/Capture4.PNG)
+
 
 3. Anda dapat memulai desain sesuka Anda. Anda dapat menambah halaman untuk menaruh elemen yang tidak cukup ditaruh pada canvas yang Anda desain.
 
-![enter image description here]()
+![enter image description here](/img/Capture2.PNG)
 
-4. Cari elemen “suntik”. Ambil elemen berikut.
+4. Cari elemen “suntik”. Ambil elemen berikut dan letakkan pada canvas.
    
-![enter image description here]()
+![enter image description here](/img/Capture5.PNG)
 
 5. Ubah sedemikan rupa agar desain seperti ini. Anda dapat memakai menselect object dan pilih **Pisahkan** agar dapat select object secara terpisah. Anda juga dapat memilih menu **Huruf besar** agar teks menjadi kapital semua atau tidak.
 
-![enter image description here]()
+![enter image description here](/img/Capture6.PNG)
 
-![enter image description here]()
+![enter image description here](/img/Capture7.PNG)
 
-6. Ubah sedemikian rupa. Untuk tulisan “Segera daftar...” Anda dapat men-copy paste dari “Untuk Kelas 7”.
-
-![enter image description here]()
-
-7. Ubah sedemikian rupa.
+6. Ubah sedemikian rupa.
    
 Warna yang digunakan:
 
 Warna ungu background: #b9a2e6 , warna kuning: #ffbd59 , warna ungu sarung tangan: #5e17bd, warna hitam, warna putih, dan warna abu tua pada “segera daftar..”: #545454 .
 
-![enter image description here]()
+![enter image description here](/img/Capture8.PNG)
 
-8. Selesai.
+7. Selesai. Unduh dengan mengklik titik tiga, kemudian **Unduh**. Pilih format png.
+
+![enter image description here](/img/Capture9.PNG)
+
 
 ## Membuat Power Point
 1. Cari “Presentasi Pendidikan”. Kemudian pilih seperti pada gambar.
