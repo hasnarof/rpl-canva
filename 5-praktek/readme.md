@@ -70,197 +70,188 @@ Pada tahap ini anda telah menyelesaikan bagian background dari carousel yang aka
 Berdasarkan gambar tersebut yang perlu anda siapkan adalah elemen sebagai berikut :  
 1. Elemen pensil  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136796482-ddd0762a-3104-480e-8fbd-d2bf8e7f3314.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.10 Elemen Pensil  
+<p align="center">Gambar 5.10 Elemen Pensil</p>  
+  
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: pencil``.  
 
 2. Elemen bintang  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136796576-a1cf10d4-5eed-4acf-9f8d-f41d49bdbdb2.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.11 Elemen bintang  
+<p align="center">Gambar 5.11 Elemen bintang </p>  
+ 
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: star``.  
 
 3. Elemen garis putus-putus  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136796698-78a2d765-c07a-4120-9cd9-47bb22452d36.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.12 Elemen garis putus-putus  
+<p align="center">Gambar 5.12 Elemen garis putus-putus</p>  
+
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan kata kunci string. Untuk menjadikannya berwarna kuning anda dapat menekan elemen tersebut dan pilih warna yang sesuai dengan memasukkan ``kode warna: #fcc70e``.   
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136796895-53978c78-c7e7-4314-985d-1e467fd49bc1.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797001-14797eed-5dac-4beb-a2ed-24f309ac236d.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>    
-Gambar 5.13 Mengubah warna elemen garis  
+<p align="center">Gambar 5.13 Mengubah warna elemen garis</p>    
+  
 
 4. Elemen garis titik-titik
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797087-862efe6d-48e9-4e31-9a1e-a60a81894f0d.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.14 Elemen garis titik-titik
+<p align="center">Gambar 5.14 Elemen garis titik-titik</p>  
+
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan kata kunci dot. Untuk menjadikannya berwarna kuning anda dapat menekan elemen tersebut dan pilih warna yang sesuai dengan memasukkan ``kode warna: #fbb040``.  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797171-139e41b0-2908-4758-a129-116eebf792b6.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.15 Mengubah warna elemen titik-titik
+<p align="center">Gambar 5.15 Mengubah warna elemen titik-titik</p>  
+
 
 Setelah elemen-elemen tersebut dimasukkan ke canvas bagian halaman pertama, sesuaikan letak elemen dengan gambar contoh. Kemudian lanjutkan dengan menuliskan teks. Terdapat 3 teks pada halaman tersebut :
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797335-bf0f2ef9-fe39-4926-8088-59b6bed889b6.jpg" height="500" width="500"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.16 Teks pada halaman pertama (sampul)
+<p align="center">Gambar 5.16 Teks pada halaman pertama (sampul)</p>  
+
 
 Langkah membuat **teks 1**:
 a. **Klik opsi teks > Tambahkan judul**  dan Tuliskan kata **“How ?”**. Kemudian pilih font dengan nama **“Open Sans Extra”** dan ukuran font **82**
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797448-bed6a967-d20a-4fd4-b71c-41205ef422e6.jpg"/>
 </p>
-<p align="center">Gambar 5.1 Instagram Carousel</p>  
-Gambar 5.17 langkah a teks 1
+<p align="center">Gambar 5.17 langkah a teks 1</p>  
+
 
 b. **Klik efek** 
 Pilih efek dengan nama **“splice” **.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797544-9b63fd1a-8b06-4573-960a-1e10b9010f04.jpg"/>
 </p>
 <p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p>  
 
 
 Sesuaikan warna dalam teks 1 dengan memasukkan ``kode warna: #bddfef``.  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797660-955d9402-3062-4984-ae8c-0b53d584cca4.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.19 Langkah b teks 1 sesuaikan warna dalam teks
+<p align="center">Gambar 5.19 Langkah b teks 1 sesuaikan warna dalam teks</p> 
+
 
 Sesuaikan warna luar teks 1 dengan memasukkan ``kode warna: #fcc70e``.  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136797832-360d2eb9-63d0-4347-b50d-d164bfa3b80f.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.20 Langkah b teks 1 sesuaikan warna luar teks
+<p align="center">Gambar 5.20 Langkah b teks 1 sesuaikan warna luar teks
+</p> 
 
  
 Langkah membuat **teks 2** :  
 1.) **Klik opsi teks > Tambahkan subjudul**  dan Tuliskan kata **“To Make”**. Kemudian pilih font dengan nama **“Oswald”** dan ukuran font **42**, kemudian pilih warna teks dengan ``kode warna: #fcc70e``.  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136798327-0c9ce025-8db8-4879-b316-ac0c5c6961cc.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.21 Langkah a membuat teks 2  
+<p align="center">Gambar 5.21 Langkah a membuat teks 2  </p> 
+
 
 Langkah membuat **teks 3** :   
 a. **Klik opsi teks > Tambahkan judul**  dan Tuliskan kata **“Carousel”**
 Pilih font dengan nama **“Open Sans Extra”** dan ukuran font **125**, kemudian pilih warna teks dengan ``kode warna: #fcc70e``.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136798462-14510d9a-ae1d-40e0-b987-6c67e7a78892.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.22 Langkah a membuat teks 3
+<p align="center">Gambar 5.22 Langkah a membuat teks 3</p> 
+
 
 b. **Klik efek**  
 Pilih efek dengan nama **“Bayangan”** dan atur opsi transparansi hingga **100**. Kemudian pilih warna bayangan dengan ``kode warna: #f47f421``.  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/55240758/136798563-f5533d40-7d52-479a-9362-97e26139c4f9.jpg"/>
+</p>
+<p align="center">Gambar 5.23 Langkah b membuat teks 3</p> 
+  
 
-Gambar 5.23 Langkah b membuat teks 3  
-
- 
 **Langkah ketujuh :** Membuat halaman kedua (konten 1)  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136798710-bbe9ec96-b819-4929-9519-3610ee2e8a38.png" height="500" width="500"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.24 Halaman kedua (konten 1)  
+<p align="center">Gambar 5.24 Halaman kedua (konten 1)</p> 
+  
 
 Berdasarkan gambar tersebut yang perlu anda siapkan adalah elemen sebagai berikut :   
 1. Elemen nomor  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799105-73d0fe3b-39d4-4d17-96a7-e382ffdcf9eb.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.24 Elemen nomor  
+<p align="center">Gambar 5.24 Elemen nomor</p> 
 
-Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: set:nAEYaWWpG74`` pada pencariaan elemen. Untuk menjadikan warna elemen sesuai dengan gambar diatas, anda dapat melakukan pengaturan warna sebagai berikut, yang mana jika diurutkan dari kiri ``kode warna: #5e17eb, #ffff, #ffff, #fbb040``.    
+Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: set:nAEYaWWpG74`` pada pencariaan elemen. Untuk menjadikan warna elemen sesuai dengan gambar diatas, anda dapat melakukan pengaturan warna sebagai berikut, yang mana jika diurutkan dari kiri ``kode warna: #5e17eb, #ffff, #ffff, #fbb040``.   
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799149-cda55ba0-6539-42f4-a2f7-33b40bae11fd.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.25 Mengatur warna elemen nomor  
+<p align="center">Gambar 5.25 Mengatur warna elemen nomor </p>  
 
  
 2. Elemen karakter perempuan  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799215-1f46561f-fb34-419b-af8b-70066f24f995.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.25 Elemen orang  
-
+<p align="center">Gambar 5.25 Elemen orang</p> 
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci set:nAEg2mZdnYs``.  
-<p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
-</p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
+
 3. Elemen garis  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799605-9ffc2741-a9e1-4249-b330-2e856aaa6b70.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.26 Elemen garis ke 1  
-
+<p align="center">Gambar 5.26 Elemen garis ke 1 </p>  
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799709-7abcb551-73fe-4e75-a717-069feab2cd98.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.27 Elemen garis ke 2  
+<p align="center">Gambar 5.27 Elemen garis ke 2</p> 
+
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan kata kunci line. Untuk menjadikannya berwarna kuning anda dapat menekan elemen tersebut dan pilih warna yang sesuai dengan memasukkan ``kode warna: #fcc70e``.   
 Setelah seluruh elemen sudah anda dapatkan buatlah teks dan tambahkan efek teks sesuai yang telah diajarkan pada desain halaman pertama (sampul), kemudian sesuaikan letak teks beserta elemen sesuai contoh gambar halaman kedua (konten 1).  
 
 **Langkah kedelapan :** Membuat halaman ketiga (konten 2)  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg" height="500" width="500"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.28 Halaman ketiga (konten 2)  
+<p align="center">Gambar 5.28 Halaman ketiga (konten 2)</p>  
 
 Pada halaman ini elemen yang digunakan yaitu:  
 1. Elemen Nomor  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799783-b06d7cc7-8993-4984-944c-9732377a67f4.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.29 Elemen Nomor   
+<p align="center">Gambar 5.29 Elemen Nomor </p>   
 
  
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci set:nAEYaWWpG74`` pada pencarian elemen. Untuk menjadikan warna elemen sesuai dengan gambar diatas, anda dapat melakukan pengaturan warna sebagai berikut, yang mana jika diurutkan dari kiri ``kode warnanya: #5e17eb,#fbb040,#fbb040, #ffff``.  
 
 2. Elemen bintang
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799895-e37dcc1d-8580-44f1-8b30-8daf59088a60.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.30 Elemen bintang
+<p align="center">Gambar 5.30 Elemen bintang</p> 
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: star``.  
 
 3. Elemen pesawat
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="![Inked31_LI](https://user-images.githubusercontent.com/55240758/136799945-f732ead7-e7f6-4dac-9784-2efd129eef14.jpg)"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.31 Elemen pesawat  
+<p align="center">Gambar 5.31 Elemen pesawat</p>   
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci set:nAEdaBtcoOg`` pada pencarian elemen. Untuk menjadikan warna elemen sesuai dengan gambar diatas, anda dapat menekan tombol edit dan sesuaikan dengan minat anda.  
 Setelah seluruh elemen sudah anda dapatkan buatlah teks dan tambahkan efek teks sesuai efek teks yang telah diajarkan pada desain halaman pertama (sampul), kemudian sesuaikan letak teks beserta elemen sesuai contoh gambar halaman kedua (konten 2).    
@@ -275,80 +266,74 @@ Gambar 5.32 Halaman keempat (konten 3)
 Pada halaman ini elemen yang digunakan yaitu :  
 1. Elemen Nomor  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799990-0400ed0d-a3e7-4ed1-a199-69cff6589623.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.33 Elemen Nomor  
+<p align="center">Gambar 5.33 Elemen Nomor</p>  
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan kata ``kunci set:nAEYaWWpG74`` pada pencarian elemen. Untuk menjadikan warna elemen sesuai dengan gambar diatas, anda dapat melakukan pengaturan warna sebagai berikut, yang mana jika diurutkan dari kiri ``kode warna: #f47241, #00c2cb,#fbb040, #5e17eb``.  
 
 2. Elemen bintang
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136800375-edb30aaa-4b39-4a4b-9e1a-6b30eb2a29cf.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.34 Elemen bintang
+<p align="center">Gambar 5.34 Elemen bintang</p> 
 
-Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: star``.  
-<p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
-</p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
+
+Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: star``.    
+
 3. Elemen kardus  
-
-Gambar 5.35 Elemen kardus
+<p align="center">
+<img src="https://user-images.githubusercontent.com/55240758/136800678-1ee7b164-1115-4cc5-940b-730ff71f9e0a.jpg"/>
+</p>
+<p align="center">Gambar 5.35 Elemen kardus</p> 
 
 Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: set:nAEdaBtcoOg`` pada pencarian elemen. 
 Setelah seluruh elemen sudah anda dapatkan buatlah teks dan tambahkan efek teks sesuai efek yang telah diajarkan pada desain halaman pertama (sampul), kemudian sesuaikan letak teks beserta elemen sesuai contoh gambar halaman kedua (konten 3).  
 
 **Langkah Kesepuluh :** Download hasil desain
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136800754-3c64e8d8-0b6c-4b18-8545-3a8e6a753550.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.36 Unduh hasil desain
+<p align="center">Gambar 5.36 Unduh hasil desain</p> 
 
  
 **Langkah Kesebelas :** Buka situs web https://pinetools.com/split-image
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136800785-80c71c0d-c5d1-4d2e-a853-40ca13f9fad8.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.37 Halaman website pine tools
+<p align="center">Gambar 5.37 Halaman website pine tools</p> 
 
 Pada website ini anda dapat melakukan split atau memotong gambar sesuai garis petunjuk yang telah anda buat pada saat mendesain. Dimana setelah dilakukan splitting, yang semula hasil desain tersebut berupa persegi panjang akan terpecah menjadi 4 persegi dengan cara sebagai berikut.
-Upload hasil desain yang telah di unduh.
+Upload hasil desain yang telah di unduh.  
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136800785-80c71c0d-c5d1-4d2e-a853-40ca13f9fad8.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.38 Upload hasil desain
+<p align="center">Gambar 5.38 Upload hasil desain</p> 
 
 Ikuti pengaturan di bawah ini untuk melakukan split 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136801183-59180f19-4f12-4b1c-93ac-e4a38bf36ce8.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.40 Pengaturan split
+<p align="center">Gambar 5.40 Pengaturan split</p>   
 
-Setelah dilakukan pengaturan tekan tombol **SPLIT IMAGE!**, setelah itu untuk mengunduh gambar yang telah di split, tekan tombol Download .zip file seperti dibawah ini.
+Setelah dilakukan pengaturan tekan tombol **SPLIT IMAGE!**, setelah itu untuk mengunduh gambar yang telah di split, tekan tombol Download .zip file seperti dibawah ini.  
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136801271-8481767b-d85a-4a8d-93bf-91a82eaecd3d.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.41 Download .zip file
+<p align="center">Gambar 5.41 Download .zip file</p> 
+
 
 Setelah itu anda dapat mengekstrak file yang telah di unduh dan mempublikasikannya ke akun sosial media anda yakni instagram. Hasil ekstrak file sebagai berikut :
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136801382-2b9d5fbd-414c-4fa5-942e-fdd055510850.jpg"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 3.42 Hasil unduhan split
+<p align="center">Gambar 3.42 Hasil unduhan split</p> 
 
 
-
-## Membuat Poster
+## B. Membuat Poster
 1. Pada search bar, tulis `Blue Illustrated Heart Health Fair Flyer`.
 
 ![enter image description here](/img/Capture3.PNG)
@@ -385,7 +370,7 @@ Warna ungu background: #b9a2e6 , warna kuning: #ffbd59 , warna ungu sarung tanga
 ![enter image description here](/img/Capture9.PNG)
 
 
-## Membuat Power Point
+## C. Membuat Power Point
 1. Cari “Presentasi Pendidikan”. Kemudian pilih seperti pada gambar.
    
 ![enter image description here]()
