@@ -14,7 +14,7 @@ Carousel sendiri bersifat interaktif, dimana pengguna atau user dapat menggeser 
 Berbeda dengan post gambar yang tidak menerapkan konsep carousel akan bersifat statis dan tidak terjadi sebuah interaksi disana.  
 
 Nah selanjutnya bagaimana cara membuat carousel seperti contoh di atas?   
-**Langkah pertama :** Membuat canvas dengan ukuran khusus yakni 4000 x 1000 piksel  
+**Langkah pertama :** Membuat canvas dengan ukuran khusus yakni ``4000 x 1000 piksel``  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
 </p>
@@ -41,7 +41,7 @@ Untuk menampilkannya anda cukup menekan tombol **File > Tampilkan penggaris** da
 </p>
 <p align="center">Gambar 5.5 Membuat garis bantu atau petunjuk </p>  
  
-**Langkah keempat :** Masukkan elemen pelangi pada canvas. Elemen tersebut didapat dengan melakukan pencarian diopsi elemen dengan ``kata kunci: brand BABj9f0X1bg line``.  
+**Langkah keempat :** Masukkan elemen pelangi pada canvas. Elemen tersebut didapat dengan melakukan pencarian diopsi elemen dengan ``kata kunci:brand BABj9f0X1bg line``.  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136735242-e387d362-7a84-4c2b-8540-7c16a7cec7fb.jpg"/>
 </p>
@@ -128,7 +128,7 @@ a. **Klik opsi teks > Tambahkan judul**  dan Tuliskan kata **“How ?”**. Kemu
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136797448-bed6a967-d20a-4fd4-b71c-41205ef422e6.jpg"/>
 </p>
-<p align="center">Gambar 5.17 langkah a teks 1</p>  
+<p align="center">Gambar 5.17 Langkah a teks 1</p>  
 
 
 b. **Klik efek** 
@@ -159,7 +159,7 @@ a.) **Klik opsi teks > Tambahkan subjudul**  dan Tuliskan kata **“To Make”**
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136798327-0c9ce025-8db8-4879-b316-ac0c5c6961cc.jpg"/>
 </p>
-<p align="center">Gambar 5.21 Langkah a membuat teks 2  </p> 
+<p align="center">Gambar 5.21 Langkah a membuat teks 2 </p> 
 
 
 Langkah membuat **teks 3** :   
@@ -225,7 +225,7 @@ Setelah seluruh elemen sudah anda dapatkan buatlah teks dan tambahkan efek teks 
 
 **Langkah kedelapan :** Membuat halaman ketiga (konten 2)  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg" height="500" width="500"/>
+<img src="https://user-images.githubusercontent.com/55240758/136807484-18900a58-77a0-419b-84df-98e3aa7a2886.png" height="500" width="500"/>
 </p>
 <p align="center">Gambar 5.28 Halaman ketiga (konten 2)</p>  
 
@@ -249,7 +249,7 @@ Elemen tersebut dapat anda dapatkan dengan menginputkan ``kata kunci: star``.
 
 3. Elemen pesawat
 <p align="center">
-<img src="![Inked31_LI](https://user-images.githubusercontent.com/55240758/136799945-f732ead7-e7f6-4dac-9784-2efd129eef14.jpg)"/>
+<img src="https://user-images.githubusercontent.com/55240758/136799945-f732ead7-e7f6-4dac-9784-2efd129eef14.jpg"/>
 </p>
 <p align="center">Gambar 5.31 Elemen pesawat</p>   
 
@@ -258,10 +258,9 @@ Setelah seluruh elemen sudah anda dapatkan buatlah teks dan tambahkan efek teks 
 
 **Langkah kesembilan :** Membuat halaman keempat (konten 3)  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136734175-7302f287-3e4d-4e76-ba0e-dcc5ec94584d.jpg"/>
+<img src="https://user-images.githubusercontent.com/55240758/136807966-9ad6169c-5a3e-453f-9bb4-3b789a9d1cef.png"/>
 </p>
-<p align="center">Gambar 5.18 Langkah b teks 1 pilih efek</p> 
-Gambar 5.32 Halaman keempat (konten 3)  
+<p align="center">Gambar 5.32 Halaman keempat (konten 3)</p>  
 
 Pada halaman ini elemen yang digunakan yaitu :  
 1. Elemen Nomor  
