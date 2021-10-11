@@ -63,7 +63,7 @@ Pada tahap ini anda telah menyelesaikan bagian background dari carousel yang aka
 
 **Langkah keenam :** Membuat halaman pertama (sampul)  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136735398-13e7ba26-c1c3-49e1-8260-25ae5fd13296.png"/>
+<img src="https://user-images.githubusercontent.com/55240758/136735398-13e7ba26-c1c3-49e1-8260-25ae5fd13296.png" width="500" height="500"/>
 </p>
 <p align="center">Gambar 5.9 Halaman pertama (sampul) </p>  
  
