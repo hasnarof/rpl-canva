@@ -11,6 +11,7 @@ Sebelumnya apa itu carousel? carousel adalah salah satu jenis konten atau bentuk
 
 Carousel sendiri bersifat interaktif, dimana pengguna atau user dapat menggeser deretan gambar secara berurutan dan pada umumnya dimanfaatkan untuk proses pembuatan konten post pada media sosial. 
 Berbeda dengan post gambar yang tidak menerapkan konsep carousel akan bersifat statis dan tidak terjadi sebuah interaksi disana.  
+
 Nah selanjutnya bagaimana cara membuat carousel seperti contoh di atas?  
 **Langkah pertama :** Membuat canvas dengan ukuran khusus yakni 4000 x 1000 piksel  
 
