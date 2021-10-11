@@ -258,7 +258,7 @@ Setelah seluruh elemen sudah anda dapatkan buatlah teks dan tambahkan efek teks 
 
 **Langkah kesembilan :** Membuat halaman keempat (konten 3)  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55240758/136807966-9ad6169c-5a3e-453f-9bb4-3b789a9d1cef.png"/>
+<img src="https://user-images.githubusercontent.com/55240758/136807966-9ad6169c-5a3e-453f-9bb4-3b789a9d1cef.png" width="500" height="500"/>
 </p>
 <p align="center">Gambar 5.32 Halaman keempat (konten 3)</p>  
 
