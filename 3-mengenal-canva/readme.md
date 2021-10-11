@@ -284,17 +284,14 @@ Anda dapat share file desain ke orang lain, baik dengan akses view, edit, atau d
 
 ### 8. Unduh
 Di sini kamu dapat mendownload / mengexport hasil desain. Terdapat beberapa peraturan export juga di sini. 
-Tampilan apabila anda menekan tombol unduh :  
-<p align="center">
-<img src="/img/image56.jpg"/> 
-</p> 
-<p align="center">Gambar 3.31 Tampilan unduh</p>
 
-Tampilan jenis file:  
-<p align="center">
-<img src="/img/image10.jpg"/> 
-</p> 
-<p align="center">Gambar 3.32 Tampilan pilihan jenis file</p>
+|Tampilan apabila anda menekan tombol unduh : |  Tampilan jenis file:  |
+| :---: | :---: |
+| <img src="/img/image56.jpg"/> | <img src="/img/image10.jpg"/> |
+| Gambar 3.31 Tampilan unduh    | Gambar 3.32 Tampilan pilihan jenis file |
+
+
+
 
 Anda dapat memilih jenis file yang akan anda unduh sesuai dengan jenis file yang ingin anda dapatkan.
 
