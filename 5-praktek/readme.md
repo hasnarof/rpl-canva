@@ -155,7 +155,7 @@ Sesuaikan warna luar teks 1 dengan memasukkan ``kode warna: #fcc70e``.
 
  
 Langkah membuat **teks 2** :  
-1.) **Klik opsi teks > Tambahkan subjudul**  dan Tuliskan kata **“To Make”**. Kemudian pilih font dengan nama **“Oswald”** dan ukuran font **42**, kemudian pilih warna teks dengan ``kode warna: #fcc70e``.  
+a.) **Klik opsi teks > Tambahkan subjudul**  dan Tuliskan kata **“To Make”**. Kemudian pilih font dengan nama **“Oswald”** dan ukuran font **42**, kemudian pilih warna teks dengan ``kode warna: #fcc70e``.  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136798327-0c9ce025-8db8-4879-b316-ac0c5c6961cc.jpg"/>
 </p>
@@ -163,7 +163,7 @@ Langkah membuat **teks 2** :
 
 
 Langkah membuat **teks 3** :   
-a. **Klik opsi teks > Tambahkan judul**  dan Tuliskan kata **“Carousel”**
+a.) **Klik opsi teks > Tambahkan judul**  dan Tuliskan kata **“Carousel”**
 Pilih font dengan nama **“Open Sans Extra”** dan ukuran font **125**, kemudian pilih warna teks dengan ``kode warna: #fcc70e``.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136798462-14510d9a-ae1d-40e0-b987-6c67e7a78892.jpg"/>
@@ -171,7 +171,7 @@ Pilih font dengan nama **“Open Sans Extra”** dan ukuran font **125**, kemudi
 <p align="center">Gambar 5.22 Langkah a membuat teks 3</p> 
 
 
-b. **Klik efek**  
+b.) **Klik efek**  
 Pilih efek dengan nama **“Bayangan”** dan atur opsi transparansi hingga **100**. Kemudian pilih warna bayangan dengan ``kode warna: #f47f421``.  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136798563-f5533d40-7d52-479a-9362-97e26139c4f9.jpg"/>
