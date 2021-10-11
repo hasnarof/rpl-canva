@@ -337,7 +337,7 @@ Setelah itu anda dapat mengekstrak file yang telah di unduh dan mempublikasikann
 
 ![enter image description here](/img/Capture3.PNG)
 
-2. Pilih template berikut.
+1. Pilih template berikut.
 
 ![enter image description here](/img/Capture4.PNG)
 
@@ -370,38 +370,151 @@ Warna ungu background: #b9a2e6 , warna kuning: #ffbd59 , warna ungu sarung tanga
 
 
 ## C. Membuat Power Point
-1. Cari “Presentasi Pendidikan”. Kemudian pilih seperti pada gambar.
-   
-![enter image description here]()
+1. Pilih menu Buat Desain, kemudian pilih Presentasi.
 
-2. Pilih slide cover. Kemudian edit sedemikian rupa sehingga menjadi seperti di bawah.
-   
-![enter image description here]()
+![enter image description here](/img/Capture10.PNG)
 
-![enter image description here]()
+2. Tambahkan slide untuk membuat slide baru.
 
-3. Tambahkan halaman, kemudian pilih slide 2.
+![enter image description here](/img/Capture11.PNG)
 
-![enter image description here]()
+3. Atur slide pertama sedemikian rupa.
 
-4. Klik **Tumble** atau **Animasikan**. Kemudian pilih animasi yang Anda suka. Pada menu waktu disebelah Tumble, itu adalah waktu per slide jika desain diexport sebagai video. Jika berupa ppt, maka waktu tidak berpengaruh.
+![enter image description here](/img/Capture12.PNG)
 
-![enter image description here]()
+Untuk masing-masing elemen, ada pada keterangan berikut.
 
-5. Tambah halaman. Kemudian pilih slide seperti pada gambar.
-   
-![enter image description here]()
+![enter image description here](/img/Capture13.PNG)
 
-6. Upload gambar jam berikut. Dengan cara ke menu **Unggahan**, kemudian **Unggah Media**. Pilih gambar yang ingin diupload. Kemudian setelah terupload, hapus gambar jam lama, kemudian taruh gambar jam baru pada frame yang tersedia pada slide ke-3.
+Background: #E8FCCF
 
-![enter image description here]()
 
-![enter image description here]()
+**Nomor 1**
 
-![enter image description here]()
+Nama elemen: Modern Gradient S Shape Blob
 
-7. Selesai. Anda dapat melihat preview animasi powerpoint sewaktu-waktu dengan klik **Tampilkan**, kemudian, pilih **Jenis**, dan klik **Tampilkan** kembali.
+Warna: gradient #FFBD59 dan #FFDE59
 
-![enter image description here]()
 
-![enter image description here]()
+**Nomor 2**
+
+Nama elemen: Modern Gradient S Shape Blob
+
+Warna: gradient #3E8914 dan #95DF71
+
+
+**Nomor 3**
+
+Nama font: Arsenal, size 32, bold
+
+Warna: abu, bebas
+
+
+**Nomor 4**
+
+Nama font: Noto Serif Display Black, size 120
+
+Warna: coklat tua, bebas
+
+
+**Nomor 5**
+
+Nama elemen: Modern Gradient S Shape Blob
+
+Warna: seperti pada nomor 2        
+
+
+**Nomor 6**
+
+Nama elemen: Modern Gradient S Shape Blob        
+
+Warna: seperti nomor 1        
+
+
+**Nomor 7**
+
+Nama font: Arsenal, size 32, bold
+
+Warna: seperti nomor 3
+
+
+4. Tambah slide 2. Atur sedemikian rupa.
+
+![enter image description here](/img/Capture14.PNG)
+
+Untuk masing-masing elemen, ada pada keterangan berikut.
+
+![enter image description here](/img/Capture15.PNG)
+
+Background: #E8FCCF
+
+
+**Nomor 1**
+
+Elemen bingkai yang berbentuk seperti lingkaran tanah liat. Kemudian masukkan gambar yang bernama “A Classroom Scene”.
+
+
+**Nomor 2**
+
+Nama elemen: Modern Gradient S Shape Blob
+
+Warna: gradient #FFBD59 dan #FFDE59
+
+
+**Nomor 3**
+
+Nama elemen: Modern Gradient S Shape Blob
+
+Warna: gradient #FFBD59 dan #FFDE59
+
+
+**Nomor 4**
+
+Nama font: Noto Serif Display Black, size 80
+
+Warna: coklat tua, bebas
+
+5. Tambah slide 3. Atur sedemikian rupa.
+
+![enter image description here](/img/Capture16.PNG)
+
+Untuk masing-masing elemen, ada pada keterangan berikut.
+
+![enter image description here](/img/Capture17.PNG)
+
+Background: #E8FCCF
+
+
+**Nomor 1**
+
+#FFF3A0
+
+Warna: gradient #FFDE59 dan #FFF3A0
+
+
+**Nomor 2**
+
+Nama font: Noto Serif Display Black, size 80
+
+Warna: coklat tua, bebas
+
+
+**Nomor 3**
+
+Nama font: Arsenal, size 32
+
+Warna: hijau tua, bebas
+
+
+**Nomor 4**
+
+Nama elemen: Modern Gradient S Shape Blob
+
+Warna: gradient #FFBD59 dan #FFDE59
+
+6. Anda bisa mengunduhnya sebagai pdf dengan **Unduh**, atau sebagai PPT dengan **Bagikan sebagai Microsoft Power Point**, atau langsung **Tampilkan** untuk tampilan seperti slide show.
+
+![enter image description here](/img/Capture18.PNG)
+
+## D. Challenge
+Buat sebuah feed instagram 3 x 3 menggunakan canva dengan teknik Instagram Carousel seperti yang sudah diajarkan!
