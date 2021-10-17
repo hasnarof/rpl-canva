@@ -329,44 +329,68 @@ Setelah itu anda dapat mengekstrak file yang telah di unduh dan mempublikasikann
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55240758/136801382-2b9d5fbd-414c-4fa5-942e-fdd055510850.jpg"/>
 </p>
-<p align="center">Gambar 3.42 Hasil unduhan split</p> 
+<p align="center">Gambar 5.42 Hasil unduhan split</p> 
 
 
 ## B. Membuat Poster
 1. Pada search bar, tulis `Blue Illustrated Heart Health Fair Flyer`.
 
-![enter image description here](/img/Capture3.PNG)
+<p align="center">
+<img src="../img/Capture3.PNG"/> 
+</p> 
+<p align="center">Gambar 5.43 Pencarian template poster</p>
 
 1. Pilih template berikut.
 
-![enter image description here](/img/Capture4.PNG)
+<p align="center">
+<img src="../img/Capture4.PNG"/> 
+</p> 
+<p align="center">Gambar 5.44 Pilih template yang dimaksud</p>
 
 
 3. Anda dapat memulai desain sesuka Anda. Anda dapat menambah halaman untuk menaruh elemen yang tidak cukup ditaruh pada canvas yang Anda desain.
 
-![enter image description here](/img/Capture2.PNG)
+<p align="center">
+<img src="../img/Capture2.PNG"/> 
+</p> 
+<p align="center">Gambar 5.45 Cara menambah halaman pada canvas</p>
 
 4. Cari elemen “suntik”. Ambil elemen berikut dan letakkan pada canvas.
    
-![enter image description here](/img/Capture5.PNG)
+<p align="center">
+<img src="../img/Capture5.PNG"/> 
+</p> 
+<p align="center">Gambar 5.46 Elemen suntik</p>
 
 5. Ubah sedemikan rupa agar desain seperti ini. Anda dapat memakai menselect object dan pilih **Pisahkan** agar dapat select object secara terpisah. Anda juga dapat memilih menu **Huruf besar** agar teks menjadi kapital semua atau tidak.
 
-![enter image description here](/img/Capture6.PNG)
+<p align="center">
+<img src="../img/Capture6.PNG"/> 
+</p> 
+<p align="center">Gambar 5.47 Desain poster</p>
 
-![enter image description here](/img/Capture7.PNG)
+<p align="center">
+<img src="../img/Capture7.PNG"/> 
+</p> 
+<p align="center">Gambar 5.48 Untuk mengubah jenis huruf</p>
 
-6. Ubah sedemikian rupa.
+6. Ubah sedemikian rupa warna elemen-elemen pada poster agar menjadi seperti poster di bawah. Berikut petunjuk-petunjuk yang disediakan.
    
 Warna yang digunakan:
 
 Warna ungu background: #b9a2e6 , warna kuning: #ffbd59 , warna ungu sarung tangan: #5e17bd, warna hitam, warna putih, dan warna abu tua pada “segera daftar..”: #545454 .
 
-![enter image description here](/img/Capture8.PNG)
+<p align="center">
+<img src="../img/Capture8.PNG"/> 
+</p> 
+<p align="center">Gambar 5.49 Perubahan warna elemen</p>
 
 7. Selesai. Unduh dengan mengklik titik tiga, kemudian **Unduh**. Pilih format png.
 
-![enter image description here](/img/Capture9.PNG)
+<p align="center">
+<img src="../img/Capture9.PNG"/> 
+</p> 
+<p align="center">Gambar 5.50 Mengunduh poster</p>
 
 
 ## C. Membuat Power Point
