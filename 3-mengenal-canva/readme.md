@@ -3,7 +3,7 @@
 ## A. Halaman Utama
 Setelah anda memiliki akun dan melakukan login maka anda akan diarahkan ke halaman utama dengan tampilan sebagai berikut :  
 <p align="center">
-<img src="/img/image84.jpg"/> 
+<img src="..../img/image84.jpg"/> 
 </p> 
 <p align="center">Gambar 3.0 Halaman utama setelah login</p>
 
@@ -13,14 +13,14 @@ Adapun berdasarkan keterangan nomor yang ada pada gambar halaman utama tersebut 
 Pada menu ini terdapat template-template yang disediakan Canva, dan dikategorikan menjadi beberapa kategori. Ada **pribadi**, **bisnis**, **pemasaran**,dan **sedang tren**. Pada setiap kategori tersebut terdapat beberapa jenis desain yang dapat anda pilih. Apabila anda mengarahkan kursor pada menu tersebut, maka akan menampilkan kategori sebagai berikut :  
 
 <p align="center">
-<img src="/img/image5.jpg"/> 
+<img src="..../img/image5.jpg"/> 
 </p> 
 <p align="center">Gambar 3.1 Pilihan menu template</p>
 
 Anda pun dapat memilih template mana yang anda perlukan berdasarkan pilihan kategori yang diberikan. Kemudian apabila anda menekan menu template tanpa memilih kategori, maka anda akan diarahkan ke halaman berikut:
 
 <p align="center">
-<img src="/img/image40.jpg"/> 
+<img src="..../img/image40.jpg"/> 
 </p> 
 <p align="center">Gambar 3.2 Halaman template</p>  
 
@@ -30,14 +30,14 @@ Pada halaman tersebut banyak sekali template yang telah disediakan canva secara 
 Pada menu **Fitur**, terdapat jenis-jenis fitur desain yang tersedia. Misalkan **foto, ikon, produk cetak, aplikasi**, dan lain-lain. Apabila kursor anda arahkan ke menu tersebut maka tampilan sebagai berikut :  
 
 <p align="center">
-<img src="/img/image39.jpg"/> 
+<img src="../img/image39.jpg"/> 
 </p> 
 <p align="center">Gambar 3.3 Pilihan menu fitur</p>
 
 Anda dapat memilih fitur mana yang anda perlukan berdasarkan pilihan yang diberikan. Adapun apabila anda menekan menu fitur tanpa memilih kategori, maka anda akan diarahkan ke halaman berikut :
 
 <p align="center">
-<img src="/img/image50.jpg"/> 
+<img src="../img/image50.jpg"/> 
 </p> 
 <p align="center">Gambar 3.4 Halaman fitur</p>
 
@@ -45,14 +45,14 @@ Anda dapat memilih fitur mana yang anda perlukan berdasarkan pilihan yang diberi
 Di sini terdapat tutorial singkat cara menggunakan Canva dan membuat berbagai desain dari Canva diantaranya yaitu **desain, bisnis, edukasi**, dan **fotografi**. Apabila kursor anda arahkan ke menu tersebut, maka tampilan akan menampilkan pilihan sebagai berikut :
 
 <p align="center">
-<img src="/img/image75.jpg"/> 
+<img src="../img/image75.jpg"/> 
 </p> 
 <p align="center">Gambar 3.5 Pilihan menu belajar</p>
 
 Anda dapat memilih untuk mempelajari apa berdasarkan pilihan yang diberikan. Adapun apabila anda menekan menu belajar tanpa memilih kategori, maka anda akan diarahkan ke halaman berikut :
 
 <p align="center">
-<img src="/img/image21.jpg"/> 
+<img src="../img/image21.jpg"/> 
 </p> 
 <p align="center">Gambar 3.6 Halaman belajar</p>
 
@@ -62,14 +62,14 @@ Pada halaman tersebut berbagai tutorial atau pembelajaran desain disediakan oleh
 Pada menu ini anda dapat menemukan paket berbayar dari Canva. Untuk pemula, Canva gratis sangat cukup dan sudah mumpuni untuk desain. Dimana apabila kursor, anda arahkan ke menu tersebut maka tampilan akan menampilkan pilihan sebagai berikut :
 
 <p align="center">
-<img src="/img/image86.jpg"/> 
+<img src="../img/image86.jpg"/> 
 </p> 
 <p align="center">Gambar 3.7 Pilihan menu harga</p>
 
 Anda dapat memilih pilihan mana yang anda perlukan. Adapun apabila anda menekan menu harga tanpa memilih pilihan, maka anda akan diarahkan ke halaman berikut :
 
 <p align="center">
-<img src="/img/image87.jpg"/> 
+<img src="../img/image87.jpg"/> 
 </p> 
 <p align="center">Gambar 3.8 Halaman harga</p>
 
@@ -80,28 +80,28 @@ Search bar adalah dimana anda dapat dengan cepat menemukan template apa pun, des
 Anda dapat memulai membuat desain dengan menekan tombol tersebut. Maka tampilan yang akan diberikan sebagai berikut:
   
 <p align="center">
-<img src="/img/image89.jpg"/> 
+<img src="../img/image89.jpg"/> 
 </p> 
 <p align="center">Gambar 3.9 Pilihan menu buat desain/p>
 
 Berdasarkan pilihan yang diberikan anda dapat memilih desain apa yang ingin anda buat. Dimana pilihan tersebut akan mengarahkan anda ke halaman desain dengan kanvas yang telah disediakan sesuai ukuran default dari canva. Misal, anda memilih untuk mendesain cerita instagram maka anda akan diarahkan ke halaman berikut dengan ukuran kanvas yang telah ditentukan oleh canva :
 
 <p align="center">
-<img src="/img/image23.jpg"/> 
+<img src="../img/image23.jpg"/> 
 </p> 
 <p align="center">Gambar 3.10 Halaman desain cerita instagram</p>
 
 Adapun apabila anda ingin meng custom ukuran kanvas dari desain yang ingin anda buat. Maka anda dapat memilih pilihan ukuran khusus sebagai berikut :
 
 <p align="center">
-<img src="/img/image35.jpg"/> 
+<img src="../img/image35.jpg"/> 
 </p> 
 <p align="center">Gambar 3.11 Pilihan ukuran khusus</p>
 
 Apabila anda memilih pilihan tersebut maka tampilan selanjutnya yang akan ditampilkan yaitu form untuk melakukan input ukuran kanvas yang anda inginkan sebagai berikut :
 
 <p align="center">
-<img src="/img/image30.jpg"/> 
+<img src="../img/image30.jpg"/> 
 </p> 
 <p align="center">Gambar 3.12 Form input ukuran canvas</p>
 
@@ -111,14 +111,14 @@ Sama seperti sebelumnya, maka selanjutnya anda akan diarahkan ke halaman desain 
 Pada menu ini anda disuguhkan beberapa pilihan, dimana terdapat pilihan sebagai berikut :
 
 <p align="center">
-<img src="/img/image82.jpg"/> 
+<img src="../img/image82.jpg"/> 
 </p> 
 <p align="center">Gambar 3.13 Pilihan menu akun</p>
 
 Pada pilihan pengaturan akun anda dapat mengubah mengubah profil foto dan sebagainya. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image62.jpg"/> 
+<img src="../img/image62.jpg"/> 
 </p> 
 <p align="center">Gambar 3.14 Halaman edit akun</p>
 
@@ -126,7 +126,7 @@ Pada pilihan pengaturan akun anda dapat mengubah mengubah profil foto dan sebaga
 Di sini terdapat sekilas template-template yang mungkin anda sukai, juga design yang sudah anda pernah buat sebelumnya. Hal ini memudahkan jika anda langsung ingin mengakses design yang terakhir kali anda buat. Tampilan halaman sebagai berikut :
 
 <p align="center">
-<img src="/img/image29.jpg"/> 
+<img src="../img/image29.jpg"/> 
 </p> 
 <p align="center">Gambar 3.15 Halaman menu direkomendasikanr</p>
 
@@ -134,7 +134,7 @@ Di sini terdapat sekilas template-template yang mungkin anda sukai, juga design 
 Adalah tempat semua file design yang telah anda buat. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image98.jpg"/> 
+<img src="../img/image98.jpg"/> 
 </p> 
 <p align="center">Gambar 3.16 Halaman menu semua desain anda</p>
 
@@ -142,7 +142,7 @@ Adalah tempat semua file design yang telah anda buat. Tampilan sebagai berikut :
 Jika anda pernah sharing design anda atau membuka file sharing dari orang lain, file tersebut akan muncul di sini. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image1.jpg"/> 
+<img src="../img/image1.jpg"/> 
 </p> 
 <p align="center">Gambar 3.17 Halaman menu dibagi dengan anda</p>
 
@@ -150,7 +150,7 @@ Jika anda pernah sharing design anda atau membuka file sharing dari orang lain, 
 Menu ini untuk mendesain sebuah brand. Canva mempercepat proses pembuatan brand, baik itu logo dan sebagainya. Canva menyediakan palet, font, dan lainnya yang dibutuhkan untuk mendesain sebuah brand. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image55.jpg"/> 
+<img src="../img/image55.jpg"/> 
 </p> 
 <p align="center">Gambar 3.18 Halaman menu kit merek</p>
 
@@ -158,7 +158,7 @@ Menu ini untuk mendesain sebuah brand. Canva mempercepat proses pembuatan brand,
 Anda dapat merencanakan konten apa yang akan anda buat pada menu ini. Di mana pada menu tersebut anda akan diarahkan ke halaman berupa kalender untuk membuat agenda. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image83.jpg"/> 
+<img src="../img/image83.jpg"/> 
 </p> 
 <p align="center">Gambar 3.19 Halaman menu perencanaan konten</p>
 
@@ -166,7 +166,7 @@ Anda dapat merencanakan konten apa yang akan anda buat pada menu ini. Di mana pa
 Menu ini memudahkan anda untuk mengorganisir file-file desain yang telah anda buat. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image79.jpg"/> 
+<img src="../img/image79.jpg"/> 
 </p> 
 <p align="center">Gambar 3.20 Halaman menu semua folder anda</p>
 
@@ -174,7 +174,7 @@ Menu ini memudahkan anda untuk mengorganisir file-file desain yang telah anda bu
 Jika ada file desain yang anda buang ke tempat sampah, file itu akan masuk ke trash dulu, sebelum bisa di-delete permanen atau di-restore. Tampilan sebagai berikut :
 
 <p align="center">
-<img src="/img/image90.jpg"/> 
+<img src="../img/image90.jpg"/> 
 </p> 
 <p align="center">Gambar 3.21 Halaman menu sampah</p>
 
@@ -182,7 +182,7 @@ Jika ada file desain yang anda buang ke tempat sampah, file itu akan masuk ke tr
 Pada menu ini anda dapat memilih template yang telah anda buat sebelumnya, membuat tim dan lain-lain. Tampilan sebagai berikut:
 
 <p align="center">
-<img src="/img/image18.jpg"/> 
+<img src="../img/image18.jpg"/> 
 </p> 
 <p align="center">Gambar 3.22 Halaman menu pribadi</p>
 
@@ -190,7 +190,7 @@ Pada menu ini anda dapat memilih template yang telah anda buat sebelumnya, membu
 Setelah anda mengetahui bagian-bagian dalam halaman utama anda, selanjutnya anda perlu untuk mengetahui bagian-bagian yang terdapat pada halaman desain. Dimana pada contoh tampilan berikut merupakan halaman desain untuk membuat cerita instagram :
 
 <p align="center">
-<img src="/img/image54.jpg"/> 
+<img src="../img/image54.jpg"/> 
 </p> 
 <p align="center">Gambar 3.23 Halaman desain</p>
 
@@ -203,7 +203,7 @@ Merupakan tombol yang akan mengarahkan anda kembali ke halaman utama atau berand
 Apabila anda menekan tombol ini maka akan terdapat beberapa pilihan yang ditampilkan.
 
 <p align="center">
-<img src="/img/image14.jpg"/> 
+<img src="../img/image14.jpg"/> 
 </p> 
 <p align="center">Gambar 3.24 Pilihan tombol file</p>
 
@@ -221,7 +221,7 @@ Berdasarkan apa yang anda pilih kemudian anda akan diarahkan ke halaman baru ses
 b. **Tampilkan penggaris** untuk menampilkan penggaris agar kita dapat mengetahui ukuran elemen yang terdapat pada desain. Selain itu dapat memudahkan kita dalam menempatkan setiap elemen atau jarak yang diperlukan antar elemen. Tampilan :
 
 <p align="center">
-<img src="/img/image58.jpg"/> 
+<img src="../img/image58.jpg"/> 
 </p> 
 <p align="center">Gambar 3.26 Menampilkan penggaris pada halaman desain</p>
 
@@ -241,14 +241,14 @@ c. **Tampilkan petunjuk** sama seperti penggaris pada menu ini berfungsi untuk m
 d. **Tampilkan pembatas** untuk menampilkan margin di dalam kanvas. Tampilan :
 
 <p align="center">
-<img src="/img/image37.jpg"/> 
+<img src="../img/image37.jpg"/> 
 </p> 
 <p align="center">Gambar 3.28 Menampilkan pembatas pada canvas</p>
 
 e. Tampilkan bleed cetak untuk menunjukkan garis bleed yang berguna jika anda ingin print desain ini dan tidak ingin ada sisa putih pada hasil print anda. Tampilan terdapat garis putus-putus mengelilingi kanvas:
 
 <p align="center">
-<img src="/img/image11.jpg"/> 
+<img src="../img/image11.jpg"/> 
 </p> 
 <p align="center">Gambar 3.29 Menampilkan bleed cetak pada canvas</p>
 
@@ -278,7 +278,7 @@ Menu ini untuk memudahkanmu untuk mengakses atau purchase Canva premium.
 Anda dapat share file desain ke orang lain, baik dengan akses view, edit, atau dapat menggunakan sebagai template. Anda dapat menginvite orang lain dengan menambahkan email mereka atau memberi mereka shareable link. Tampilan :
 
 <p align="center">
-<img src="/img/image32.jpg"/> 
+<img src="../img/image32.jpg"/> 
 </p> 
 <p align="center">Gambar 3.30 Tampilan bagikan</p>
 
@@ -287,7 +287,7 @@ Di sini kamu dapat mendownload / mengexport hasil desain. Terdapat beberapa pera
 
 |Tampilan apabila anda menekan tombol unduh : |  Tampilan jenis file:  |
 | :---: | :---: |
-| <img src="/img/image56.jpg"/> | <img src="/img/image10.jpg"/> |
+| <img src="../img/image56.jpg"/> | <img src="../img/image10.jpg"/> |
 | Gambar 3.31 Tampilan unduh    | Gambar 3.32 Tampilan pilihan jenis file |
 
 
@@ -299,7 +299,7 @@ Anda dapat memilih jenis file yang akan anda unduh sesuai dengan jenis file yang
 Opsi lain ini berbentuk 3 titik ke samping. Terdapat beberapa opsi bagaimana anda ingin mempublish desain anda. Ada bagian **Dianjurkan, bagikan**, dan **cetak**. Tampilan :
 
 <p align="center">
-<img src="/img/image68.jpg"/> 
+<img src="../img/image68.jpg"/> 
 </p> 
 <p align="center">Gambar 3.33 Tampilan opsi lain (titik tiga)</p>
 
