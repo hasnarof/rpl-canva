@@ -15,21 +15,21 @@ Tentu untuk mengakses atau menggunakan canva terlebih dahulu dianjurkan untuk me
 #### 1. Membuka halaman canva dengan alamat www.canva.com pada penelusuran google, sebagai berikut :
 
 <p align="center">
-<img src="/img/image34.jpg"/> 
+<img src="../img/image34.jpg"/> 
 </p> 
 <p align="center">Gambar 2.1 Membuka website Canva</p>  
 
 #### 2. Maka selanjutnya tampilan yang akan diberikan adalah halaman utama canva. Selanjutnya arahkan kursor anda ke tombol Daftar dan klik tombol tersebut.!
 
 <p align="center">
-<img src="/img/image6.jpg"/> 
+<img src="../img/image6.jpg"/> 
 </p> 
 <p align="center">Gambar 2.2 Halaman utama Canva</p>
 
 #### 3. Tampilan yang akan diberikan selanjutnya merupakan pop up pendaftaran dengan akun google, akun facebook, atau email yang anda punya. Anda cukup memilih satu di antaranya.  
 
 <p align="center">
-<img src="/img/image69.jpg"/> 
+<img src="../img/image69.jpg"/> 
 </p> 
 <p align="center">Gambar 2.3 Membuat akun Canva</p>  
 
@@ -38,21 +38,21 @@ Apabila anda memilih :
 a. **Daftar dengan Google**, maka anda akan diarahkan untuk memilih akun google yang ingin anda daftarkan.  
 
 <p align="center">
-<img src="/img/image12.jpg"/> 
+<img src="../img/image12.jpg"/> 
 </p> 
 <p align="center">Gambar 2.3.1 Mendaftar dengan akun Google</p>  
 
 b. **Daftar dengan Facebook**, maka anda akan diarahkan ke halaman Log In facebook.  
 
 <p align="center">
-<img src="/img/image31.jpg"/> 
+<img src="../img/image31.jpg"/> 
 </p> 
 <p align="center">Gambar 2.3.2 Mendaftar dengan akun Facebook</p>  
 
 c. **Daftar dengan email**, maka anda akan diarahkan ke halaman pendaftaran dengan email.  
 
 <p align="center">
-<img src="/img/image47.jpg"/> 
+<img src="../img/image47.jpg"/> 
 </p> 
 <p align="center">Gambar 2.3.3 Mendaftar dengan Email</p>  
 
