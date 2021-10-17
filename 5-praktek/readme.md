@@ -396,19 +396,31 @@ Warna ungu background: #b9a2e6 , warna kuning: #ffbd59 , warna ungu sarung tanga
 ## C. Membuat Power Point
 1. Pilih menu Buat Desain, kemudian pilih Presentasi.
 
-![enter image description here](/img/Capture10.PNG)
+<p align="center">
+<img src="../img/Capture10.PNG"/> 
+</p> 
+<p align="center">Gambar 5.51 Memilih menu presentasi</p>
 
 2. Tambahkan slide untuk membuat slide baru.
 
-![enter image description here](/img/Capture11.PNG)
+<p align="center">
+<img src="../img/Capture11.PNG"/> 
+</p> 
+<p align="center">Gambar 5.52 Tambah slide</p>
 
-3. Atur slide pertama sedemikian rupa.
+3. Atur slide pertama sedemikian rupa. Tambahkan elemen dan teks, kemudian atur style-nya. Keterangan masing-masing elemen ada di bawah.
 
-![enter image description here](/img/Capture12.PNG)
+<p align="center">
+<img src="../img/Capture12.PNG"/> 
+</p> 
+<p align="center">Gambar 5.53 Slide 1</p>
 
 Untuk masing-masing elemen, ada pada keterangan berikut.
 
-![enter image description here](/img/Capture13.PNG)
+<p align="center">
+<img src="../img/Capture13.PNG"/> 
+</p> 
+<p align="center">Gambar 5.54 Keterangan Slide 1</p>
 
 Background: #E8FCCF
 
@@ -462,13 +474,19 @@ Nama font: Arsenal, size 32, bold
 Warna: seperti nomor 3
 
 
-4. Tambah slide 2. Atur sedemikian rupa.
+4. Tambah slide 2. Atur sedemikian rupa. Tambahkan elemen dan teks, kemudian atur style-nya. Keterangan masing-masing elemen ada di bawah.
 
-![enter image description here](/img/Capture14.PNG)
+<p align="center">
+<img src="../img/Capture14.PNG"/> 
+</p> 
+<p align="center">Gambar 5.55 Slide 2</p>
 
 Untuk masing-masing elemen, ada pada keterangan berikut.
 
-![enter image description here](/img/Capture15.PNG)
+<p align="center">
+<img src="../img/Capture15.PNG"/> 
+</p> 
+<p align="center">Gambar 5.56 Keterangan slide 2</p>
 
 Background: #E8FCCF
 
@@ -498,13 +516,19 @@ Nama font: Noto Serif Display Black, size 80
 
 Warna: coklat tua, bebas
 
-5. Tambah slide 3. Atur sedemikian rupa.
+5. Tambah slide 3. Atur sedemikian rupa. Tambahkan elemen dan teks, kemudian atur style-nya. Keterangan masing-masing elemen ada di bawah.
 
-![enter image description here](/img/Capture16.PNG)
+<p align="center">
+<img src="../img/Capture16.PNG"/> 
+</p> 
+<p align="center">Gambar 5.57 Slide 3</p>
 
 Untuk masing-masing elemen, ada pada keterangan berikut.
 
-![enter image description here](/img/Capture17.PNG)
+<p align="center">
+<img src="../img/Capture17.PNG"/> 
+</p> 
+<p align="center">Gambar 5.58 Keterangan slide 3</p>
 
 Background: #E8FCCF
 
@@ -538,7 +562,10 @@ Warna: gradient #FFBD59 dan #FFDE59
 
 6. Anda bisa mengunduhnya sebagai pdf dengan **Unduh**, atau sebagai PPT dengan **Bagikan sebagai Microsoft Power Point**, atau langsung **Tampilkan** untuk tampilan seperti slide show.
 
-![enter image description here](/img/Capture18.PNG)
+<p align="center">
+<img src="../img/Capture18.PNG"/> 
+</p> 
+<p align="center">Gambar 5.59 Unduh power point</p>
 
 ## D. Challenge
 Buat sebuah feed instagram 3 x 3 menggunakan canva dengan teknik Instagram Carousel seperti yang sudah diajarkan!
