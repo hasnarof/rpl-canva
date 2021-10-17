@@ -3,7 +3,7 @@
 ## A. Halaman Utama
 Setelah anda memiliki akun dan melakukan login maka anda akan diarahkan ke halaman utama dengan tampilan sebagai berikut :  
 <p align="center">
-<img src="..../img/image84.jpg"/> 
+<img src="../img/image84.jpg"/> 
 </p> 
 <p align="center">Gambar 3.0 Halaman utama setelah login</p>
 
@@ -13,14 +13,14 @@ Adapun berdasarkan keterangan nomor yang ada pada gambar halaman utama tersebut 
 Pada menu ini terdapat template-template yang disediakan Canva, dan dikategorikan menjadi beberapa kategori. Ada **pribadi**, **bisnis**, **pemasaran**,dan **sedang tren**. Pada setiap kategori tersebut terdapat beberapa jenis desain yang dapat anda pilih. Apabila anda mengarahkan kursor pada menu tersebut, maka akan menampilkan kategori sebagai berikut :  
 
 <p align="center">
-<img src="..../img/image5.jpg"/> 
+<img src="../img/image5.jpg"/> 
 </p> 
 <p align="center">Gambar 3.1 Pilihan menu template</p>
 
 Anda pun dapat memilih template mana yang anda perlukan berdasarkan pilihan kategori yang diberikan. Kemudian apabila anda menekan menu template tanpa memilih kategori, maka anda akan diarahkan ke halaman berikut:
 
 <p align="center">
-<img src="..../img/image40.jpg"/> 
+<img src="../img/image40.jpg"/> 
 </p> 
 <p align="center">Gambar 3.2 Halaman template</p>  
 
